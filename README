@@ -1,5 +1,5 @@
 The Trash Mail is a Trash Mail Service with a Teamplate based Web GUI and a ATOM based REST API.
 
-This Trash Mail Service is based on <a href="https://github.com/msoftware/Trash-Mail">an open-source project</a> licensed under the <a href="http://www.gnu.org/copyleft/gpl.html"><acronym title="GNU\'s Not Unix">GNU</acronym> General Public License</a>. This means you can host it on your own web server for free, whether it is on the Internet, a private network or just your own computer.')
+This Trash Mail Service is based on <a href=https://github.com/msoftware/Trash-Mail>an open-source project</a> licensed under the <a href=http://www.gnu.org/copyleft/gpl.html>GNU General Public License</a>. This means you can host it on your own web server for free, whether it is on the Internet, a private network or just your own computer.')
 
-A full demo can be shown at <a href="http://1pad.de/">1pad trash mail service</a>.
+A full demo can be shown at <a href=http://1pad.de/>1pad trash mail service</a>.
