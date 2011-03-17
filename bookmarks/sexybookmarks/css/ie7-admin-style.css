@@ -1,0 +1,21 @@
+#clearShortUrlsLabel { margin:-14px 0 0 0; }
+div#shrsb-col-left { overflow:hidden; }
+div.box-mid-body { overflow:hidden; margin:-2px 0 0 0; }
+div#shrsb-networks { display:block; margin:0 0 10px 0; overflow:hidden; }
+div#shrsb-col-right { margin:40px -10px 0; right:2%; width:256px; }
+div.box-right-head { width:256px; }
+div.box-right-body { width:256px; overflow:hidden; }
+div.box-right-body ul { list-style:none; padding:0; }
+div.box-right-body ul li { list-style:none; list-style-position:outside; margin:0; padding:0; }
+div.box-right-body ol { list-style-type:decimal !important; list-style-position:inside; }
+div.box-right-body ol li { margin:30px 0 30px -30px; list-style-type:decimal !important; list-style-position:inside; }
+div.box-right-body ol li:before  { width:0; }
+div.box-right-body ol li span { line-height:15px; }
+div.dialog-box-succes { width:97.6%; }
+div.dialog-box-error { width:97.6%; }
+div.dialog-box-warning { width:97.6%; }
+div.dialog-box-information { width:97.6%; }
+img.del-x { margin-top:3px; }
+.shebang-info { top:0; }
+#bgimgs { display:block; overflow:hidden; padding:10px 10px 0; }
+ul#shrsb-sortables li div.box-mid-head { width:100% !important; display:block !important; overflow:hidden !important; }

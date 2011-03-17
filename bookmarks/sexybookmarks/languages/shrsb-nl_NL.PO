@@ -1,0 +1,1264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NL1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sexybookmarks\n"
+"POT-Creation-Date: 2009-12-19 20:38+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martin van der Grond <info@gouwefoto.nl>\n"
+"Language-Team:  <info@gouwefoto.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: includes/bookmarks-data.php:5
+#: includes/bookmarks-data.php:10
+#: includes/bookmarks-data.php:15
+#: includes/bookmarks-data.php:20
+#: includes/bookmarks-data.php:25
+#: includes/bookmarks-data.php:30
+#: includes/bookmarks-data.php:35
+#: includes/bookmarks-data.php:40
+#: includes/bookmarks-data.php:45
+#: includes/bookmarks-data.php:50
+#: includes/bookmarks-data.php:55
+#: includes/bookmarks-data.php:60
+#: includes/bookmarks-data.php:65
+#: includes/bookmarks-data.php:70
+#: includes/bookmarks-data.php:85
+#: includes/bookmarks-data.php:90
+#: includes/bookmarks-data.php:95
+#: includes/bookmarks-data.php:100
+#: includes/bookmarks-data.php:105
+#: includes/bookmarks-data.php:110
+#: includes/bookmarks-data.php:115
+#: includes/bookmarks-data.php:120
+#: includes/bookmarks-data.php:125
+#: includes/bookmarks-data.php:130
+#: includes/bookmarks-data.php:135
+#: includes/bookmarks-data.php:140
+#: includes/bookmarks-data.php:145
+#: includes/bookmarks-data.php:150
+#: includes/bookmarks-data.php:155
+#: includes/bookmarks-data.php:160
+#: includes/bookmarks-data.php:165
+#: includes/bookmarks-data.php:170
+#: includes/bookmarks-data.php:175
+#: includes/bookmarks-data.php:180
+#: includes/bookmarks-data.php:185
+#: includes/bookmarks-data.php:190
+#: includes/bookmarks-data.php:195
+#: includes/bookmarks-data.php:200
+#: includes/bookmarks-data.php:205
+#: includes/bookmarks-data.php:210
+#: includes/bookmarks-data.php:215
+#: includes/bookmarks-data.php:220
+#: includes/bookmarks-data.php:225
+#: includes/bookmarks-data.php:230
+#: includes/bookmarks-data.php:235
+#: includes/bookmarks-data.php:240
+#: includes/bookmarks-data.php:245
+#: includes/bookmarks-data.php:250
+#: includes/bookmarks-data.php:255
+#: includes/bookmarks-data.php:260
+#: includes/bookmarks-data.php:265
+#: includes/bookmarks-data.php:270
+#: includes/bookmarks-data.php:275
+#: includes/bookmarks-data.php:280
+#: includes/bookmarks-data.php:285
+#: includes/bookmarks-data.php:290
+#: includes/bookmarks-data.php:295
+#: includes/bookmarks-data.php:300
+#: includes/bookmarks-data.php:305
+#: includes/bookmarks-data.php:310
+#: includes/bookmarks-data.php:315
+#: includes/bookmarks-data.php:320
+#: includes/bookmarks-data.php:325
+#: includes/bookmarks-data.php:330
+#: includes/bookmarks-data.php:335
+#: includes/bookmarks-data.php:340
+#: includes/bookmarks-data.php:345
+#: includes/bookmarks-data.php:350
+#: includes/bookmarks-data.php:355
+#: includes/bookmarks-data.php:360
+#: includes/bookmarks-data.php:365
+#: includes/bookmarks-data.php:370
+#: includes/bookmarks-data.php:375
+#: includes/bookmarks-data.php:380
+#: includes/bookmarks-data.php:385
+msgid "Check this box to include "
+msgstr "Vink dit vakje aan om "
+
+#: includes/bookmarks-data.php:5
+#: includes/bookmarks-data.php:6
+msgid "Script &amp; Style"
+msgstr "Script &amp; Style"
+
+#: includes/bookmarks-data.php:5
+#: includes/bookmarks-data.php:10
+#: includes/bookmarks-data.php:15
+#: includes/bookmarks-data.php:20
+#: includes/bookmarks-data.php:25
+#: includes/bookmarks-data.php:30
+#: includes/bookmarks-data.php:35
+#: includes/bookmarks-data.php:40
+#: includes/bookmarks-data.php:45
+#: includes/bookmarks-data.php:50
+#: includes/bookmarks-data.php:55
+#: includes/bookmarks-data.php:60
+#: includes/bookmarks-data.php:65
+#: includes/bookmarks-data.php:70
+#: includes/bookmarks-data.php:75
+#: includes/bookmarks-data.php:80
+#: includes/bookmarks-data.php:85
+#: includes/bookmarks-data.php:90
+#: includes/bookmarks-data.php:95
+#: includes/bookmarks-data.php:100
+#: includes/bookmarks-data.php:105
+#: includes/bookmarks-data.php:110
+#: includes/bookmarks-data.php:115
+#: includes/bookmarks-data.php:120
+#: includes/bookmarks-data.php:125
+#: includes/bookmarks-data.php:130
+#: includes/bookmarks-data.php:135
+#: includes/bookmarks-data.php:140
+#: includes/bookmarks-data.php:145
+#: includes/bookmarks-data.php:150
+#: includes/bookmarks-data.php:155
+#: includes/bookmarks-data.php:160
+#: includes/bookmarks-data.php:165
+#: includes/bookmarks-data.php:170
+#: includes/bookmarks-data.php:175
+#: includes/bookmarks-data.php:180
+#: includes/bookmarks-data.php:185
+#: includes/bookmarks-data.php:190
+#: includes/bookmarks-data.php:195
+#: includes/bookmarks-data.php:200
+#: includes/bookmarks-data.php:205
+#: includes/bookmarks-data.php:210
+#: includes/bookmarks-data.php:215
+#: includes/bookmarks-data.php:220
+#: includes/bookmarks-data.php:225
+#: includes/bookmarks-data.php:230
+#: includes/bookmarks-data.php:235
+#: includes/bookmarks-data.php:240
+#: includes/bookmarks-data.php:245
+#: includes/bookmarks-data.php:250
+#: includes/bookmarks-data.php:255
+#: includes/bookmarks-data.php:260
+#: includes/bookmarks-data.php:265
+#: includes/bookmarks-data.php:270
+#: includes/bookmarks-data.php:275
+#: includes/bookmarks-data.php:280
+#: includes/bookmarks-data.php:285
+#: includes/bookmarks-data.php:290
+#: includes/bookmarks-data.php:295
+#: includes/bookmarks-data.php:300
+#: includes/bookmarks-data.php:305
+#: includes/bookmarks-data.php:310
+#: includes/bookmarks-data.php:315
+#: includes/bookmarks-data.php:320
+#: includes/bookmarks-data.php:325
+#: includes/bookmarks-data.php:330
+#: includes/bookmarks-data.php:335
+#: includes/bookmarks-data.php:340
+#: includes/bookmarks-data.php:345
+#: includes/bookmarks-data.php:350
+#: includes/bookmarks-data.php:355
+#: includes/bookmarks-data.php:360
+#: includes/bookmarks-data.php:365
+#: includes/bookmarks-data.php:370
+#: includes/bookmarks-data.php:375
+#: includes/bookmarks-data.php:380
+#: includes/bookmarks-data.php:385
+msgid " in your bookmarking menu"
+msgstr "toe te voegen aan uw menu"
+
+#: includes/bookmarks-data.php:6
+#: includes/bookmarks-data.php:61
+#: includes/bookmarks-data.php:141
+#: includes/bookmarks-data.php:181
+#: includes/bookmarks-data.php:241
+#: includes/bookmarks-data.php:246
+#: includes/bookmarks-data.php:251
+#: includes/bookmarks-data.php:256
+#: includes/bookmarks-data.php:306
+#: includes/bookmarks-data.php:321
+#: includes/bookmarks-data.php:331
+#: includes/bookmarks-data.php:336
+#: includes/bookmarks-data.php:356
+msgid "Submit this to "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:10
+#: includes/bookmarks-data.php:11
+msgid "Blinklist"
+msgstr "Blinklist"
+
+#: includes/bookmarks-data.php:11
+#: includes/bookmarks-data.php:16
+#: includes/bookmarks-data.php:31
+#: includes/bookmarks-data.php:46
+#: includes/bookmarks-data.php:51
+#: includes/bookmarks-data.php:66
+#: includes/bookmarks-data.php:91
+#: includes/bookmarks-data.php:101
+#: includes/bookmarks-data.php:121
+#: includes/bookmarks-data.php:126
+#: includes/bookmarks-data.php:131
+#: includes/bookmarks-data.php:146
+#: includes/bookmarks-data.php:156
+#: includes/bookmarks-data.php:211
+#: includes/bookmarks-data.php:261
+#: includes/bookmarks-data.php:266
+#: includes/bookmarks-data.php:286
+#: includes/bookmarks-data.php:346
+#: includes/bookmarks-data.php:366
+#: includes/bookmarks-data.php:386
+msgid "Share this on "
+msgstr "Deel dit op "
+
+#: includes/bookmarks-data.php:15
+msgid "Delicious"
+msgstr "Delicious"
+
+#: includes/bookmarks-data.php:16
+msgid "del.icio.us"
+msgstr "del.icio.us"
+
+#: includes/bookmarks-data.php:20
+msgid "Digg"
+msgstr "Digg"
+
+#: includes/bookmarks-data.php:21
+msgid "Digg this!"
+msgstr "Digg dit!"
+
+#: includes/bookmarks-data.php:25
+#: includes/bookmarks-data.php:26
+msgid "Diigo"
+msgstr "Diigo"
+
+#: includes/bookmarks-data.php:26
+msgid "Post this on "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:30
+#: includes/bookmarks-data.php:31
+msgid "Reddit"
+msgstr "Reddit"
+
+#: includes/bookmarks-data.php:35
+msgid "Yahoo! Buzz"
+msgstr "Yahoo! Buzz"
+
+#: includes/bookmarks-data.php:36
+msgid "Buzz up!"
+msgstr "Buzz up!"
+
+#: includes/bookmarks-data.php:40
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: includes/bookmarks-data.php:41
+msgid "Stumble upon something good? Share it on StumbleUpon"
+msgstr "Deel het op StumbleUpon"
+
+#: includes/bookmarks-data.php:45
+#: includes/bookmarks-data.php:46
+msgid "Technorati"
+msgstr "Technorati"
+
+#: includes/bookmarks-data.php:50
+#: includes/bookmarks-data.php:51
+msgid "Mixx"
+msgstr "Mixx"
+
+#: includes/bookmarks-data.php:55
+#: includes/bookmarks-data.php:56
+msgid "MySpace"
+msgstr "MySpace"
+
+#: includes/bookmarks-data.php:56
+#: includes/bookmarks-data.php:201
+#: includes/bookmarks-data.php:226
+#: includes/bookmarks-data.php:376
+msgid "Post this to "
+msgstr "Bericht it op"
+
+#: includes/bookmarks-data.php:60
+#: includes/bookmarks-data.php:61
+msgid "DesignFloat"
+msgstr "DesignFloat"
+
+#: includes/bookmarks-data.php:65
+#: includes/bookmarks-data.php:66
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/bookmarks-data.php:70
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/bookmarks-data.php:71
+msgid "Tweet This!"
+msgstr "Tweet dit!"
+
+#: includes/bookmarks-data.php:75
+#: includes/bookmarks-data.php:80
+msgid "Check this box to include the "
+msgstr "Voeg een "
+
+#: includes/bookmarks-data.php:75
+msgid "\"Email to a Friend\" link"
+msgstr "\"Email to a Friend\" link toe."
+
+#: includes/bookmarks-data.php:76
+msgid "Email this to a friend?"
+msgstr "E-mail dit naar een vriend. "
+
+#: includes/bookmarks-data.php:80
+#: includes/bookmarks-data.php:81
+msgid "ToMuse"
+msgstr "ToMuse"
+
+#: includes/bookmarks-data.php:81
+msgid "Suggest this article to "
+msgstr "Tip dit artikel naar"
+
+#: includes/bookmarks-data.php:85
+msgid "a 'Subscribe to Comments' link"
+msgstr "een''Subscribe to Comments' link"
+
+#: includes/bookmarks-data.php:86
+msgid "Subscribe to the comments for this post?"
+msgstr "Abonneer u op de reacties bij dit artikel."
+
+#: includes/bookmarks-data.php:90
+#: includes/bookmarks-data.php:91
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/bookmarks-data.php:95
+#: includes/bookmarks-data.php:96
+msgid "Newsvine"
+msgstr "Newsvine"
+
+#: includes/bookmarks-data.php:96
+msgid "Seed this on "
+msgstr "Post dit op"
+
+#: includes/bookmarks-data.php:100
+#: includes/bookmarks-data.php:101
+msgid "Devmarks"
+msgstr "Devmarks"
+
+#: includes/bookmarks-data.php:105
+#: includes/bookmarks-data.php:106
+msgid "Google Bookmarks"
+msgstr "Google Bookmarks"
+
+#: includes/bookmarks-data.php:106
+#: includes/bookmarks-data.php:111
+#: includes/bookmarks-data.php:116
+#: includes/bookmarks-data.php:161
+#: includes/bookmarks-data.php:166
+#: includes/bookmarks-data.php:171
+#: includes/bookmarks-data.php:176
+#: includes/bookmarks-data.php:196
+#: includes/bookmarks-data.php:371
+msgid "Add this to "
+msgstr "Voeg dit doe aan "
+
+#: includes/bookmarks-data.php:110
+#: includes/bookmarks-data.php:111
+msgid "Mister Wong"
+msgstr "Mister Wong"
+
+#: includes/bookmarks-data.php:115
+#: includes/bookmarks-data.php:116
+msgid "Izeby"
+msgstr "Izeby"
+
+#: includes/bookmarks-data.php:120
+#: includes/bookmarks-data.php:121
+msgid "Tipd"
+msgstr "Tipd"
+
+#: includes/bookmarks-data.php:125
+#: includes/bookmarks-data.php:126
+msgid "PFBuzz"
+msgstr "PFBuzz"
+
+#: includes/bookmarks-data.php:130
+#: includes/bookmarks-data.php:131
+msgid "FriendFeed"
+msgstr "FriendFeed"
+
+#: includes/bookmarks-data.php:135
+#: includes/bookmarks-data.php:136
+msgid "BlogMarks"
+msgstr "BlogMarks"
+
+#: includes/bookmarks-data.php:136
+msgid "Mark this on "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:140
+#: includes/bookmarks-data.php:141
+msgid "Twittley"
+msgstr "Twittley "
+
+#: includes/bookmarks-data.php:145
+#: includes/bookmarks-data.php:146
+msgid "Fwisp"
+msgstr "Fwisp "
+
+#: includes/bookmarks-data.php:150
+#: includes/bookmarks-data.php:151
+msgid "DesignMoo"
+msgstr "DesignMoo "
+
+#: includes/bookmarks-data.php:151
+msgid "Moo this on "
+msgstr "Moo dit op "
+
+#: includes/bookmarks-data.php:155
+#: includes/bookmarks-data.php:156
+msgid "BobrDobr"
+msgstr "BobrDobr"
+
+#: includes/bookmarks-data.php:155
+#: includes/bookmarks-data.php:160
+#: includes/bookmarks-data.php:165
+#: includes/bookmarks-data.php:170
+#: includes/bookmarks-data.php:175
+msgid " (Russian)"
+msgstr " (Russisch)"
+
+#: includes/bookmarks-data.php:160
+#: includes/bookmarks-data.php:161
+msgid "Yandex.Bookmarks"
+msgstr "Yandex.Bookmarks "
+
+#: includes/bookmarks-data.php:165
+#: includes/bookmarks-data.php:166
+msgid "Memory.ru"
+msgstr "Memory.ru "
+
+#: includes/bookmarks-data.php:170
+#: includes/bookmarks-data.php:171
+msgid "100 bookmarks"
+msgstr "100 bookmarks "
+
+#: includes/bookmarks-data.php:175
+#: includes/bookmarks-data.php:176
+msgid "MyPlace"
+msgstr "MyPlace "
+
+#: includes/bookmarks-data.php:180
+#: includes/bookmarks-data.php:181
+msgid "Hacker News"
+msgstr "Hacker News "
+
+#: includes/bookmarks-data.php:185
+#: includes/bookmarks-data.php:186
+msgid "Print Friendly"
+msgstr "Print Friendly"
+
+#: includes/bookmarks-data.php:186
+msgid "Send this page to "
+msgstr "Stuur deze pagina naar "
+
+#: includes/bookmarks-data.php:190
+msgid "Design Bump"
+msgstr "Design Bump "
+
+#: includes/bookmarks-data.php:191
+msgid "Bump this on "
+msgstr "Bump dit op "
+
+#: includes/bookmarks-data.php:191
+msgid "DesignBump"
+msgstr "DesignBump"
+
+#: includes/bookmarks-data.php:195
+#: includes/bookmarks-data.php:196
+msgid "Ning"
+msgstr "Ning "
+
+#: includes/bookmarks-data.php:200
+#: includes/bookmarks-data.php:201
+msgid "Identica"
+msgstr "Identica "
+
+#: includes/bookmarks-data.php:205
+#: includes/bookmarks-data.php:206
+msgid "Xerpi"
+msgstr "Xerpi "
+
+#: includes/bookmarks-data.php:206
+msgid "Save this to "
+msgstr "Bewaar dit op "
+
+#: includes/bookmarks-data.php:210
+#: includes/bookmarks-data.php:211
+msgid "Wikio"
+msgstr "Wikio "
+
+#: includes/bookmarks-data.php:215
+#: includes/bookmarks-data.php:216
+msgid "TechMeme"
+msgstr "TechMeme"
+
+#: includes/bookmarks-data.php:216
+msgid "Tip this to "
+msgstr "Verstuur dit als tip naar"
+
+#: includes/bookmarks-data.php:220
+#: includes/bookmarks-data.php:221
+msgid "Sphinn"
+msgstr "Sphinn"
+
+#: includes/bookmarks-data.php:221
+msgid "Sphinn this on "
+msgstr "Sphinn dit op "
+
+#: includes/bookmarks-data.php:225
+#: includes/bookmarks-data.php:226
+msgid "Posterous"
+msgstr "Posterous"
+
+#: includes/bookmarks-data.php:230
+#: includes/bookmarks-data.php:231
+msgid "Global Grind"
+msgstr "Global Grind"
+
+#: includes/bookmarks-data.php:231
+msgid "Grind this! on "
+msgstr "Grind this! op "
+
+#: includes/bookmarks-data.php:235
+#: includes/bookmarks-data.php:236
+msgid "Ping.fm"
+msgstr "Ping.fm"
+
+#: includes/bookmarks-data.php:236
+msgid "Ping this on "
+msgstr "Ping dit op "
+
+#: includes/bookmarks-data.php:240
+#: includes/bookmarks-data.php:241
+msgid "NUjij"
+msgstr "NUjij"
+
+#: includes/bookmarks-data.php:240
+#: includes/bookmarks-data.php:245
+msgid " (Dutch)"
+msgstr " (Nederlands)"
+
+#: includes/bookmarks-data.php:245
+#: includes/bookmarks-data.php:246
+msgid "eKudos"
+msgstr "eKudos"
+
+#: includes/bookmarks-data.php:250
+#: includes/bookmarks-data.php:251
+msgid "Netvouz"
+msgstr "Netvouz"
+
+#: includes/bookmarks-data.php:255
+#: includes/bookmarks-data.php:256
+msgid "Netvibes"
+msgstr "Netvibes"
+
+#: includes/bookmarks-data.php:260
+#: includes/bookmarks-data.php:261
+msgid "Fleck"
+msgstr "Fleck"
+
+#: includes/bookmarks-data.php:265
+#: includes/bookmarks-data.php:266
+msgid "Blogosphere News"
+msgstr "Blogosphere News"
+
+#: includes/bookmarks-data.php:270
+msgid "Web Blend"
+msgstr "Web Blend"
+
+#: includes/bookmarks-data.php:271
+msgid "Blend this!"
+msgstr "Blend dit!"
+
+#: includes/bookmarks-data.php:275
+msgid "Wykop"
+msgstr "Wykop"
+
+#: includes/bookmarks-data.php:275
+msgid " (Polish)"
+msgstr " (Pools)"
+
+#: includes/bookmarks-data.php:276
+msgid "Add this to Wykop!"
+msgstr "Plaats dit op Wykop!"
+
+#: includes/bookmarks-data.php:280
+msgid "BlogEngage"
+msgstr "BlogEngage"
+
+#: includes/bookmarks-data.php:281
+msgid "Engage with this article!"
+msgstr "Engage with this article!"
+
+#: includes/bookmarks-data.php:285
+#: includes/bookmarks-data.php:286
+msgid "Hyves"
+msgstr "Hyves"
+
+#: includes/bookmarks-data.php:290
+#: includes/bookmarks-data.php:291
+msgid "Pusha"
+msgstr "Pusha"
+
+#: includes/bookmarks-data.php:290
+msgid " (Swedish)"
+msgstr " (Zweeds)"
+
+#: includes/bookmarks-data.php:291
+msgid "Push this on "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:295
+#: includes/bookmarks-data.php:296
+msgid "Hatena Bookmarks"
+msgstr "Hatena Bookmarks"
+
+#: includes/bookmarks-data.php:295
+msgid " (Japanese)"
+msgstr " (Japanse)"
+
+#: includes/bookmarks-data.php:296
+msgid "Bookmarks this on "
+msgstr "Bookmark dit bij "
+
+#: includes/bookmarks-data.php:300
+#: includes/bookmarks-data.php:301
+msgid "MyLinkVault"
+msgstr "MyLinkVault"
+
+#: includes/bookmarks-data.php:301
+msgid "Store this link on "
+msgstr "Plaats deze link op "
+
+#: includes/bookmarks-data.php:305
+#: includes/bookmarks-data.php:306
+msgid "SlashDot"
+msgstr "SlashDot"
+
+#: includes/bookmarks-data.php:310
+#: includes/bookmarks-data.php:311
+msgid "Squidoo"
+msgstr "Squidoo"
+
+#: includes/bookmarks-data.php:311
+msgid "Add to a lense on "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:315
+#: includes/bookmarks-data.php:316
+msgid "Propeller"
+msgstr "Propeller"
+
+#: includes/bookmarks-data.php:316
+msgid "Submit this story to "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:320
+#: includes/bookmarks-data.php:321
+msgid "FAQpal"
+msgstr "FAQpal"
+
+#: includes/bookmarks-data.php:325
+#: includes/bookmarks-data.php:326
+msgid "Evernote"
+msgstr "Evernote"
+
+#: includes/bookmarks-data.php:326
+msgid "Clip this to "
+msgstr "Plaats dit op "
+
+#: includes/bookmarks-data.php:330
+#: includes/bookmarks-data.php:331
+msgid "Meneame"
+msgstr "Meneame"
+
+#: includes/bookmarks-data.php:330
+#: includes/bookmarks-data.php:335
+msgid " (Spanish)"
+msgstr " (Spaans)"
+
+#: includes/bookmarks-data.php:335
+#: includes/bookmarks-data.php:336
+msgid "Bitacoras"
+msgstr "Bitacoras"
+
+#: includes/bookmarks-data.php:340
+#: includes/bookmarks-data.php:341
+msgid "JumpTags"
+msgstr "JumpTags"
+
+#: includes/bookmarks-data.php:341
+msgid "Submit this link to "
+msgstr "Verstuur deze link naar "
+
+#: includes/bookmarks-data.php:345
+#: includes/bookmarks-data.php:346
+msgid "Bebo"
+msgstr "Bebo"
+
+#: includes/bookmarks-data.php:350
+#: includes/bookmarks-data.php:351
+msgid "N4G"
+msgstr "N4G"
+
+#: includes/bookmarks-data.php:351
+msgid "Submit tip to "
+msgstr "Stuur dit als tip naar "
+
+#: includes/bookmarks-data.php:355
+#: includes/bookmarks-data.php:356
+msgid "Strands"
+msgstr "Strands"
+
+#: includes/bookmarks-data.php:360
+#: includes/bookmarks-data.php:361
+msgid "Orkut"
+msgstr "Orkut"
+
+#: includes/bookmarks-data.php:361
+msgid "Promote this on "
+msgstr "Laat dit aan anderen zien op "
+
+#: includes/bookmarks-data.php:365
+#: includes/bookmarks-data.php:366
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: includes/bookmarks-data.php:370
+#: includes/bookmarks-data.php:371
+msgid "Stumpedia"
+msgstr "Stumpedia"
+
+#: includes/bookmarks-data.php:375
+#: includes/bookmarks-data.php:376
+msgid "Current"
+msgstr "Huidige"
+
+#: includes/bookmarks-data.php:380
+#: includes/bookmarks-data.php:381
+msgid "Blogger"
+msgstr "Blogger"
+
+#: includes/bookmarks-data.php:381
+msgid "Blog this on "
+msgstr "Plaats dit bericht op"
+
+#: includes/bookmarks-data.php:385
+#: includes/bookmarks-data.php:386
+msgid "Plurk"
+msgstr "Plurk"
+
+#: includes/public.php:169
+msgid "an error occurred in SexyBookmarks"
+msgstr "In SexyBookmarks is een fout opgetreden"
+
+#: includes/public.php:311
+msgid "xtrastyle"
+msgstr "xtrastyle"
+
+#: includes/public.php:504
+msgid "SexyBookmarks has been disabled on this page"
+msgstr "SexyBookmarks is op deze pagina uitgeschakeld"
+
+#: includes/public.php:509
+msgid "Start Of Code Generated By SexyBookmarks"
+msgstr "Begin van de SexyBookmarks-code"
+
+#: includes/public.php:558
+msgid "End Of Code Generated By SexyBookmarks"
+msgstr "Einde van de SexyBookmarks-code"
+
+#: sexy-bookmarks.php:170
+msgid "Your changes have been saved successfully!"
+msgstr "Uw wijzigingen zijn succesvol opgeslagen!"
+
+#: sexy-bookmarks.php:170
+msgid "Maybe you would consider "
+msgstr "Wilt u eens nadenken over een "
+
+#: sexy-bookmarks.php:170
+msgid "donating"
+msgstr "donatie"
+
+#: sexy-bookmarks.php:173
+msgid "Please choose where you would like the menu to be displayed."
+msgstr "Kies hier waar u het menu wilt tonen."
+
+#: sexy-bookmarks.php:174
+msgid "You can't display the menu if you don't choose a few sites to add to it!"
+msgstr "U kunt het menu niet tonen als u geen sites toevoegd!"
+
+#: sexy-bookmarks.php:175
+msgid "Please choose where you want the menu displayed."
+msgstr "Kies waar u het menu wilt tonen. "
+
+#: sexy-bookmarks.php:179
+msgid "You need to select the primary category for any articles submitted to Twittley."
+msgstr "U moet een standaard categorie aangeven voor alle artikelen die u naar Twittley verstuurt. "
+
+#: sexy-bookmarks.php:180
+msgid "You need to set at least 1 default tag for any articles submitted to Twittley."
+msgstr "U moet minstens 1 standaardtag selecteren voor de artikelen die u post op Twittley."
+
+#: sexy-bookmarks.php:190
+msgid "You must first download and activate the"
+msgstr "Download en activeert u eerst de"
+
+#: sexy-bookmarks.php:190
+msgid "Twitter Friendly Links Plugin"
+msgstr "Twittervriendelijke links plugin"
+
+#: sexy-bookmarks.php:190
+msgid "before hosting your own short URLs..."
+msgstr "Voordat u uw eigen verkorte links kunt hosten..."
+
+#: sexy-bookmarks.php:225
+msgid " Short URLs have been reset."
+msgstr "Verkorte links worden verwijderd."
+
+#: sexy-bookmarks.php:265
+msgid "Enabled Networks"
+msgstr "Getoonde netwerken"
+
+#: sexy-bookmarks.php:269
+msgid "Select the Networks to display. Drag to reorder."
+msgstr "Selecteer de netwerken die u wilt tonen. Sleep de iconen om te herorganiseren."
+
+#: sexy-bookmarks.php:272
+msgid "All"
+msgstr "Alle"
+
+#: sexy-bookmarks.php:273
+msgid "None"
+msgstr "Geen"
+
+#: sexy-bookmarks.php:274
+msgid "Most Popular"
+msgstr "Populairste"
+
+#: sexy-bookmarks.php:275
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: sexy-bookmarks.php:289
+msgid "Functionality Settings"
+msgstr "Pragmatische instellingen"
+
+#: sexy-bookmarks.php:295
+msgid "This will clear <u>ALL</u> short URLs. - Are you sure?"
+msgstr "Dit zal <u>ALLE</u> verkorte links verwijderen. -Weet u het zeker?"
+
+#: sexy-bookmarks.php:298
+#: sexy-bookmarks.php:457
+#: sexy-bookmarks.php:460
+#: sexy-bookmarks.php:511
+#: sexy-bookmarks.php:592
+msgid "Yes"
+msgstr "Ja"
+
+#: sexy-bookmarks.php:298
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: sexy-bookmarks.php:302
+msgid "Twitter Options:"
+msgstr "Twitter opties:"
+
+#: sexy-bookmarks.php:303
+msgid "Twitter ID:"
+msgstr "Twitter ID:"
+
+#: sexy-bookmarks.php:306
+msgid "Which URL Shortener?"
+msgstr "Welke linkverkorter?"
+
+#: sexy-bookmarks.php:328
+msgid "Reset all Short URLs"
+msgstr "Verwijder alle verkorte links"
+
+#: sexy-bookmarks.php:393
+msgid "Yahoo! Buzz Defaults:"
+msgstr "Yahoo! Buzz standaard instellingen:"
+
+#: sexy-bookmarks.php:394
+msgid "Default Content Category:"
+msgstr "Standaard inhoudscategorie:"
+
+#: sexy-bookmarks.php:414
+msgid "Default Media Type:"
+msgstr "Standaard media type:"
+
+#: sexy-bookmarks.php:428
+msgid "Twittley Defaults:"
+msgstr "Staandaard Twitley instellingen"
+
+#: sexy-bookmarks.php:429
+msgid "Primary Content Category:"
+msgstr "Standaard categorie: "
+
+#: sexy-bookmarks.php:447
+msgid "Enter a comma separated list of general tags which describe your site's posts as a whole. Try not to be too specific, as one post may fall into different \"tag categories\" than other posts."
+msgstr "Voer een door komma's gescheiden lijst van tags waarmee u de post beschrijft. Wees niet te specifiek, want dan kan het bericht in een andere tagcategorie komen dan de andere berichten. "
+
+#: sexy-bookmarks.php:448
+msgid "This list is primarily used as a failsafe in case you forget to enter WordPress tags for a particular post, in which case this list of tags would be used so as to bring at least *somewhat* relevant search queries based on the general tags that you enter here."
+msgstr "Deze lijst is hoofdzakelijk bedoeld als hulpmiddel wanneer u vergeten bent WordPresstags bij een bericht in te voeren. "
+
+#: sexy-bookmarks.php:448
+msgid "Click here to close this message"
+msgstr "Klik hier om dit bericht te sluiten"
+
+#: sexy-bookmarks.php:448
+msgid "close"
+msgstr "sluit"
+
+#: sexy-bookmarks.php:450
+msgid "Default Tags:"
+msgstr "Standaard tags:"
+
+#: sexy-bookmarks.php:451
+#: sexy-bookmarks.php:590
+msgid "Click here for help with this option"
+msgstr "Klik hier voor hulp met deze mogelijkheid"
+
+#: sexy-bookmarks.php:455
+msgid "General Functionality Options:"
+msgstr "Algemene instellingen"
+
+#: sexy-bookmarks.php:456
+msgid "Add nofollow to the links?"
+msgstr "Voeg nofollow toe aan de links?"
+
+#: sexy-bookmarks.php:458
+#: sexy-bookmarks.php:461
+#: sexy-bookmarks.php:512
+#: sexy-bookmarks.php:516
+#: sexy-bookmarks.php:593
+msgid "No"
+msgstr "Nee"
+
+#: sexy-bookmarks.php:459
+msgid "Open links in new window?"
+msgstr "Wilt u de links in een nieuw venster openen?"
+
+#: sexy-bookmarks.php:468
+msgid "Plugin Aesthetics"
+msgstr "Esthetische instellingen"
+
+#: sexy-bookmarks.php:473
+msgid "Warning!"
+msgstr "Waarschuwing!"
+
+#: sexy-bookmarks.php:474
+msgid "This option is intended "
+msgstr "Deze mogelijkheid is "
+
+#: sexy-bookmarks.php:474
+msgid "STRICTLY"
+msgstr "ALLEEN"
+
+#: sexy-bookmarks.php:474
+msgid " for users who understand how to edit CSS/JS and intend to change/edit the associated images themselves. No support will be offered for this feature, as I cannot be held accountable for your coding/image-editing mistakes. Furthermore, this feature was implemented as a favor to the thousands of you who asked for such a feature, and as such, I would appreciate it if you could refrain from sending nasty emails when you break the plugin due to coding errors of your own."
+msgstr "bedoeld voor gebruikers die weten hoe CSS/JS moet worden bewerkt en die de bijbehorende afbeeldingen willen wijzigen. Voor deze mogelijkheid wordt geen ondersteuning aangeboden, want ik kan geen verantwoordelijkheid dragen voor uw programmeerfouten. Desalniettemin, deze functionaliteit  is ingebouwd omdat duizenden gebruikers het graag wilden. Daarom zou ik het op prijs stellen als u mij geen boze e-mails stuurt omdat de plugin niet meer functioneert door uw programmeerfouten. "
+
+#: sexy-bookmarks.php:475
+msgid "How it works..."
+msgstr "Hoe het werkt..."
+
+#: sexy-bookmarks.php:476
+msgid "Since you have chosen for the plugin to override the style settings with your own custom mods, it will now pull the files from the new folders it is going to create on your server as soon as you save your changes. The file/folder locations should be as follows:"
+msgstr "Since you have chosen for the plugin to override the style settings with your own custom mods, it will now pull the files from the new folders it is going to create on your server as soon as you save your changes. The file/folder locations should be as follows:"
+
+#: sexy-bookmarks.php:487
+msgid "Once you have saved your changes, you will be able to edit the image sprite that holds all of the icons for SexyBookmarks as well as the CSS which accompanies it. Just be sure that you do in fact edit the CSS if you edit the images, as it is unlikely the heights, widths, and background positions of the images will stay the same after you are done."
+msgstr "Once you have saved your changes, you will be able to edit the image sprite that holds all of the icons for SexyBookmarks as well as the CSS which accompanies it. Just be sure that you do in fact edit the CSS if you edit the images, as it is unlikely the heights, widths, and background positions of the images will stay the same after you are done."
+
+#: sexy-bookmarks.php:488
+msgid "Just a quick note... When you edit the styles and images to include your own custom backgrounds, icons, and CSS styles, be aware that those changes will not be reflected on the plugin options page. In other words: when you select your networks to be displayed, or when you select the background image to use, it will still be displaying the images from the original plugin directory."
+msgstr "Just a quick note... When you edit the styles and images to include your own custom backgrounds, icons, and CSS styles, be aware that those changes will not be reflected on the plugin options page. In other words: when you select your networks to be displayed, or when you select the background image to use, it will still be displaying the images from the original plugin directory."
+
+#: sexy-bookmarks.php:490
+msgid "If you happen to completely screw up the code, you can follow these directions to reset the plugin back to normal and try again if you wish:"
+msgstr "Indien, door uw toedoen, de code disfunctioneert, kunt u hier de plugininstellingen naar de oorspronkelijke waarden terugzetten. "
+
+#: sexy-bookmarks.php:492
+msgid "Login to your server via FTP or SSH. (whichever you are more comfortable with)"
+msgstr "Login to your server via FTP or SSH. (whichever you are more comfortable with)"
+
+#: sexy-bookmarks.php:493
+msgid "Navigate to your wp-content directory."
+msgstr "Surf naar uw wp-content map."
+
+#: sexy-bookmarks.php:494
+msgid "Delete the directory named \"sexy-mods\"."
+msgstr "Verwijder de directory  \"sexy-mods\"."
+
+#: sexy-bookmarks.php:495
+msgid "Login to your WordPress dashboard."
+msgstr "Log in in uw Wordpress dashboard"
+
+#: sexy-bookmarks.php:496
+msgid "Go to the SexyBookmarks plugin options page. (settings->sexybookmarks)"
+msgstr "Go to the SexyBookmarks plugin options page. (settings->sexybookmarks)"
+
+#: sexy-bookmarks.php:497
+msgid "Deselect the \"Use custom mods\" option."
+msgstr "Deselecteer de  \"Use custom mods\" mogelijkheid."
+
+#: sexy-bookmarks.php:498
+msgid "Save your changes."
+msgstr "Bewaar uw wijzigingen"
+
+#: sexy-bookmarks.php:504
+msgid "Override Styles With Custom Mods Instead?"
+msgstr "Wilt u de standaard stijl veranderen?"
+
+#: sexy-bookmarks.php:509
+msgid "jQuery Related Options"
+msgstr "jQuery Related Options"
+
+#: sexy-bookmarks.php:510
+msgid "Animate-expand multi-lined bookmarks?"
+msgstr "Animate-expand multi-lined bookmarks?"
+
+#: sexy-bookmarks.php:513
+msgid "Auto-space/center the bookmarks?"
+msgstr "Auto-space/center the bookmarks?"
+
+#: sexy-bookmarks.php:514
+msgid "Space"
+msgstr "Ruimte"
+
+#: sexy-bookmarks.php:515
+msgid "Center"
+msgstr "Centreer"
+
+#: sexy-bookmarks.php:517
+msgid "jQuery Compatibility Fix"
+msgstr "jQuery Compatibility Fix"
+
+#: sexy-bookmarks.php:518
+msgid "Check this box ONLY if you notice jQuery being loaded twice in your source code!"
+msgstr "Vink dit vakje ALLEEN aan als u merkt dat jQuery twee keer in uw broncode wordt geladen!"
+
+#: sexy-bookmarks.php:521
+msgid "Background Image Options"
+msgstr "Achtergrondafbeelding opties"
+
+#: sexy-bookmarks.php:523
+msgid "Use a background image?"
+msgstr "Wilt u een achtergrondafbeelding gebruiken?"
+
+#: sexy-bookmarks.php:553
+msgid "Menu Placement"
+msgstr "Positionering menu"
+
+#: sexy-bookmarks.php:559
+msgid "Need help with this? Find it in the "
+msgstr "Heeft u hulp nodig? Vind het in de"
+
+#: sexy-bookmarks.php:559
+msgid "official install guide"
+msgstr "Handleiding"
+
+#: sexy-bookmarks.php:567
+msgid "This feature is still in the experimental phase, so please "
+msgstr "Deze mogelijkheid verkeert nog in experimentele fase, dus wilt u"
+
+#: sexy-bookmarks.php:567
+msgid "report any bugs"
+msgstr "alle fouten "
+
+#: sexy-bookmarks.php:567
+msgid "you may find"
+msgstr "die u vind aan ons melden?"
+
+#: sexy-bookmarks.php:573
+msgid "Menu Location (in relevance to content):"
+msgstr "Positionering van menu (t.o.v. bericht)"
+
+#: sexy-bookmarks.php:574
+msgid "Above Content"
+msgstr "Boven bericht"
+
+#: sexy-bookmarks.php:575
+msgid "Below Content"
+msgstr "Onder bericht"
+
+#: sexy-bookmarks.php:576
+msgid "Manual Mode"
+msgstr "Handmatig isntellen"
+
+#: sexy-bookmarks.php:577
+msgid "Posts, pages, or the whole shebang?"
+msgstr "Posts, pagina's of gewoon alles?"
+
+#: sexy-bookmarks.php:591
+msgid "Show in RSS feed?"
+msgstr "Toon in RSS-feed."
+
+#: sexy-bookmarks.php:595
+msgid "Hide menu from mobile browsers?"
+msgstr "Toon menu NIET op mobiele browsers"
+
+#: sexy-bookmarks.php:603
+msgid "Save Changes"
+msgstr "Bewaar wijzigingen"
+
+#: sexy-bookmarks.php:609
+msgid "Helpful Plugin Links"
+msgstr "Diverse plugin links"
+
+#: sexy-bookmarks.php:614
+msgid "Installation &amp; Usage Guide"
+msgstr "Installatie &amp; gebruikersgids"
+
+#: sexy-bookmarks.php:615
+msgid "Frequently Asked Questions"
+msgstr "Vaak gestelde vragen"
+
+#: sexy-bookmarks.php:616
+msgid "Bug Submission Form"
+msgstr "Gebruik dit formulier om een fout te melden. "
+
+#: sexy-bookmarks.php:617
+msgid "Feature Request Form"
+msgstr "Verzoek om extra functionaliteit"
+
+#: sexy-bookmarks.php:618
+msgid "Submit a Translation"
+msgstr "Verstuur een vertaling. "
+
+#: sexy-bookmarks.php:619
+msgid "Other SexyBookmarks Platforms"
+msgstr "Other SexyBookmarks Platforms"
+
+#: sexy-bookmarks.php:626
+msgid "Support by Donating"
+msgstr "Hulp bij donatie"
+
+#: sexy-bookmarks.php:630
+msgid "If you like SexyBookmarks and wish to contribute towards it's continued development, you can use the form below to do so."
+msgstr "Als SexyBookmarks u bevalt en u wilt de ontwikkeling ervan steunen, kunt u dat doen middel het onderstaande formulier. "
+
+#: sexy-bookmarks.php:634
+msgid "SexyBookmarks Development Support"
+msgstr "SexyBookmarks ontwikkelingsondersteuning"
+
+#: sexy-bookmarks.php:637
+msgid "Please enter the URL you'd like me to link to if you are a top contributor."
+msgstr "Geef de URL door waarnaar ik kan linken als je een TOP donateur bent. "
+
+#: sexy-bookmarks.php:639
+msgid "Return to Your Dashboard"
+msgstr "Ga terug naar je dashboard. "
+
+#: sexy-bookmarks.php:643
+msgid "Select Preset Amount? "
+msgstr "Selecteer vastgestelde hoeveelheid. "
+
+#: sexy-bookmarks.php:656
+msgid "Enter Custom Amount?"
+msgstr "Geef hoeveelheid aan. "
+
+#: sexy-bookmarks.php:662
+msgid "Disable sponsor messages?"
+msgstr "Schakel sponsorberichten uit."
+
+#: sexy-bookmarks.php:671
+msgid "Top Supporters"
+msgstr "Top Supporters"
+
+#: sexy-bookmarks.php:684
+msgid "Shout-Outs"
+msgstr "Shout-Outs"
+
+#: sexy-bookmarks.php:689
+msgid "Fugue Icons: Pinvoke"
+msgstr "Fugue Icons: Pinvoke"
+
+#: sexy-bookmarks.php:690
+msgid "Fugue Icon Sprite: Alison Barrett"
+msgstr "Fugue Icon Sprite: Alison Barrett"
+
+#: sexy-bookmarks.php:691
+msgid "Original Skin Icons: Function"
+msgstr "Original Skin Icons: Function"
+
+#: sexy-bookmarks.php:692
+msgid "Bug Patch: Artem Russakovskii"
+msgstr "Bug Patch: Artem Russakovskii"
+
+#: sexy-bookmarks.php:693
+msgid "Twitter encoding fix: Gautam Gupta"
+msgstr "Twitter encoding fix: Gautam Gupta"
+
+#: sexy-bookmarks.php:694
+msgid "bit.ly bug fix: Konstantin Kovshenin"
+msgstr "bit.ly bug fix: Konstantin Kovshenin"
+
+#: sexy-bookmarks.php:701
+msgid "Translation Contributors"
+msgstr "Vertaalassistenten"
+
+#: sexy-bookmarks.php:706
+msgid "RU Translation: Yuri Gribov"
+msgstr "RU vertaling: Yuri Gribov"
+
+#: sexy-bookmarks.php:707
+msgid "FR Translation: Maitre Mo"
+msgstr "FR vertaling: Maitre Mo"
+
+#: sexy-bookmarks.php:708
+msgid "RO Translation: Ghenciu Ciprian"
+msgstr "RO vertaling: Ghenciu Ciprian"
+
+#: sexy-bookmarks.php:709
+msgid "IT Translation: Carlo Veltri"
+msgstr "IT vertaling: Carlo Veltri"
+
+#: sexy-bookmarks.php:710
+msgid "ES Translation: Javier Pimienta"
+msgstr "ES vertaling: Javier Pimienta"
+
+#: sexy-bookmarks.php:711
+msgid "CN Translation: Joojen"
+msgstr "CN vertaling: Joojen"
+
+#: sexy-bookmarks.php:712
+msgid "IT Translation: Giovanni Zuccaro"
+msgstr "IT vertaling: Giovanni Zuccaro"
+
+#: sexy-bookmarks.php:713
+msgid "TR Translation: &#214;mer Taylan Tu&#287;ut"
+msgstr "TR vertaling: &#214;mer Taylan Tu&#287;ut"
+
+#: sexy-bookmarks.php:714
+msgid "DE Translation: Gunther Wegner"
+msgstr "DE vertaling: Gunther Wegner"
+
+#: sexy-bookmarks.php:715
+msgid "da-DK Translation: Mads Floe"
+msgstr "da-DK vertaling: Mads Floe"
+

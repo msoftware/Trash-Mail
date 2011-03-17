@@ -1,0 +1,425 @@
+/* General Styles */
+.shrsblogo {text-indent: -100.0em; height:90px; background:url('../images/shrsb-logo.png') no-repeat 0 0; position:relative;top:25px;}
+.sh-logo { text-indent: -100.0em; display:block;height:41px;width:220px;overflow: hidden; background:url('../images/shareaholic-220.png') no-repeat 0 0; position:absolute;right:40px;top:25px;}
+#clearShortUrlsLabel { font-size:11px; height:14px; line-height:14px; }
+#clearShortUrls {margin-right:4px;}
+.shebang-info { cursor:pointer; left:5px; position:relative; top:3px; }
+.dtags-info { cursor:pointer; left:5px; position:relative; top:3px; }
+#info-manual, #clear-warning, #custom-warning, #custom-warning-a, #mobile-warn { display:none; }
+#defaulttags { width:40%; }
+ul#shrsb-sortables li div.padding { color:#555; }
+ul#shrsb-sortables div.padding h1, ul#shrsb-sortables div.padding h2, ul#shrsb-sortables div.padding h3, ul#shrsb-sortables div.padding h4, ul#shrsb-sortables div.padding h5 { color:#222;font-family:Corbel, Verdana, sans-serif; }
+#tag-info {
+	background:#b3d3ef none;
+	border:1px solid #8ba2df;
+	font-style:italic;
+	line-height:20px;
+	padding:10px;
+	overflow:hidden;
+}
+.dtags-close {
+	color:#4f659f;
+	font-style:normal;
+	float:right;
+	display:inline;
+	text-decoration:none;
+	cursor:pointer;
+}
+#tweetconfig {width:100% !important;height:30px !important;}
+#twitter-defaults, #genopts {margin:20px 0;}
+#tweetinstructions {font-size:11px;}
+#tweetcounter {margin-left:192px;font-size:9px;position:absolute;margin:0 !important;right:10px;}
+#tweetcounter span {}
+#tweetoutput {margin-top:15px !important;}
+/* End General Styles */
+/*------------------------------------------------------------------------------------------*/
+/* Custom Classes */
+.clear { clear:both; }
+.clearbig { clear:both; height:15px; }
+.hidden { display:none; }
+.floright { clear:none; float:right; margin:0 0 0 10px; }
+.floleft { clear:none; float:left; margin:0 10px 0 0; }
+.padding { padding:10px;	overflow:hidden; }
+.shrsb_option { display:block; font-weight:bold; margin-top:12px; color:#444; }
+.hide { display:none; }
+/* End Custom Classes */
+/*------------------------------------------------------------------------------------------*/
+/* Background Images Section */
+.share-care, .share-sexy, .share-care-old, .share-love, .share-wealth, .share-enjoy, .share-german, .share-knowledge { display:block; float:left; margin:10px 0 0; padding:50px 0 0 11px; width:195px; }
+.share-care { background:url('../images/sharing-caring-hearts.png') no-repeat; }
+.share-sexy { background:url('../images/sharing-shr.png') no-repeat; }
+.share-care-old { background:url('../images/sharing-caring.png') no-repeat; }
+.share-love { background:url('../images/share-love-hearts.png') no-repeat; }
+.share-wealth { background:url('../images/share-wealth.png') no-repeat; padding:50px 0 0 25px !important; }
+.share-enjoy { background:url('../images/share-enjoy.png') no-repeat; }
+.share-german { background:url('../images/share-german.png') no-repeat; padding-left:25px; }
+.share-knowledge { background:url('../images/share-knowledge.png') no-repeat; padding-left:25px; }
+/* End Background Images Section */
+/*------------------------------------------------------------------------------------------*/
+/* Top Status Messages */
+div.shrsb-success, div.shrsb-error, div.shrsb-warning, div.shrsb-information {
+	border-width:1px;
+	border-style:solid;
+	font-size:10px;
+	font-weight:bold;
+	height:auto;
+	overflow:hidden;
+	margin:35px 0 0;
+	padding:4px 10px 6px;
+	width:97%;
+}
+div.shrsb-success { background:#b4efab; border-color: #8be57e; color:#337129; }
+div.shrsb-error {	 background:#feb1b1; border-color: #fe9090; color:#820101; }
+div.shrsb-information { background:#a3d0ff; border-color: #6ab3ff; color:#004185; }
+div.shrsb-warning { background:#f0feb1; border-color: #d5d458; color:#7f7200; }
+.shrsb-warning a, .shrsb-information a, .shrsb-error a, .shrsb-success a { text-decoration:underline; }
+.shrsb-warning a { color:#6f6300; }
+.shrsb-error a { color:#cb0000; }
+.shrsb-information a { color:#1b466f; }
+.shrsb-success a { color:#1d5f12; }
+
+#shrsb-sortables p {margin:0.3em 0 1.6em;}
+#shrsb-sortables .shrsb-success, #shrsb-sortables .shrsb-error, #shrsb-sortables .shrsb-warning {width:auto;margin:0 0 15px;font-weight:normal;font-size:12px;}
+#shrsb-sortables .shrsb-success p, #shrsb-sortables .shrsb-error p, #shrsb-sortables .shrsb-warning p {margin:0;}
+/* End Top Status Messages */
+/*------------------------------------------------------------------------------------------*/
+/* Individual Section Status Messages */
+div.dialog-box-success, div.dialog-box-error, div.dialog-box-warning, div.dialog-box-information {
+	float:left;
+	border-width:1px;
+	border-style:solid;
+	font-size:10px;
+	font-weight:bold;
+	height:auto;
+	overflow:hidden;
+	margin-bottom:10px;
+	padding:4px 10px 6px;
+	width:97.5%;
+}
+div.dialog-box-succes { background:#b4efab; border-color:#8be57e; color:#337129; }
+div.dialog-box-error { background:#feb1b1; border-color: #fe9090; color:#820101; }
+div.dialog-box-warning { background:#f0feb1; border-color: #d5d458; color:#7f7200; }
+div.dialog-box-information { background:#a3d0ff;	border-color: #6ab3ff;	color:#004185; }
+div.dialog-left { float:left; line-height:18px; }
+div.dialog-left a { text-decoration:underline; }
+div.dialog-box-information a { color:#004185; }
+div.dialog-box-information a:hover { color:#21759b; }
+div.dialog-box-warning a { color:#af9c00; }
+div.dialog-box-warning a:hover { color:#af9c00; }
+div.dialog-right { float:right; }
+img.del-x { cursor:pointer; margin-top:7px; }
+/* End Individual Section Status Messages */
+/*------------------------------------------------------------------------------------------*/
+/* Bookmarking Services Icons */
+.iconator label {
+	background-image:url('../images/shr-sprite.png');
+	background-repeat:no-repeat;
+	cursor:move;
+	float:left;
+	height:45px;
+	font-size: 10px;
+	margin:12px 2px !important;
+	text-align:center;
+	width:60px;
+}
+.iconator label input {margin-top:30px;}
+label.shr-newsvine {background-position:left top;}
+label.shr-linkedin {background-position:-70px top;}
+label.shr-googlebookmarks {background-position:-140px top;}
+label.shr-googlereader {background-position:-210px top;}
+label.shr-scriptstyle {background-position:-280px top;}
+label.shr-mail {background-position:-350px top;}
+label.shr-comfeed {background-position:-420px top;}
+label.shr-twitter {background-position:-490px top;}
+label.shr-technorati {background-position:-560px top;}
+label.shr-stumbleupon {background-position:-630px top;}
+label.shr-reddit {background-position:-700px top;}
+label.shr-myspace {background-position:-770px top;}
+label.shr-mixx {background-position:-840px top;}
+label.shr-diigo {background-position:-910px top;}
+label.shr-digg {background-position:-980px top;}
+label.shr-designfloat {background-position:-1050px top;}
+label.shr-yahoobuzz {background-position:-1120px top;}
+label.shr-delicious {background-position:-1190px top;}
+label.shr-blinklist {background-position:-1260px top;}
+label.shr-facebook {background-position:-1330px top;}
+label.shr-misterwong {background-position:-1400px top;}
+label.shr-izeby {background-position:-1470px top;}
+label.shr-twittley {background-position:-1540px top;}
+label.shr-tipd {background-position:-1610px top;}
+label.shr-pfbuzz {background-position:-1680px top;}
+label.shr-friendfeed {background-position:-1750px top;}
+label.shr-blogmarks {background-position:-1820px top;}
+label.shr-fwisp {background-position:-1890px top;}
+label.shr-yahoomail {background-position:-1960px top;}
+label.shr-bobrdobr {background-position:-2030px top;}
+label.shr-memoryru {background-position:-2100px top;}
+label.shr-100zakladok {background-position:-2170px top;}
+label.shr-yandex {background-position:-2240px top;}
+label.shr-moemesto {background-position:-2310px top;}
+label.shr-marrows {background-position:-2380px top;}
+label.shr-identica {background-position:-2450px top;}
+label.shr-hackernews {background-position:-2520px top;}
+label.shr-ning {background-position:-2590px top;}
+label.shr-designbump {background-position:-2660px top;}
+label.shr-printfriendly {background-position:-2730px top;}
+label.shr-fleck{ background-position:-2800px top !important; }
+label.shr-netvibes{ background-position:-2870px top !important; }
+label.shr-netvouz{ background-position:-2940px top !important; }
+label.shr-nujij{ background-position:-3010px top !important; }
+label.shr-globalgrind{ background-position:-3080px top !important; }
+label.shr-wikio{ background-position:-3150px top !important; }
+label.shr-xerpi{ background-position:-3220px top !important; }
+label.shr-sphinn{ background-position:-3290px top !important; }
+label.shr-hotmail{ background-position:-3360px top !important; }
+label.shr-posterous{ background-position:-3430px top !important; }
+label.shr-techmeme{ background-position:-3500px top !important; }
+label.shr-ekudos{ background-position:-3570px top !important; }
+label.shr-pingfm{ background-position:-3640px top !important; }
+label.shr-tomuse{ background-position:-3710px top !important; }
+label.shr-webblend{ background-position:-3780px top !important; }
+label.shr-wykop{ background-position:-3850px top !important; }
+label.shr-blogengage{ background-position:-3920px top !important; }
+label.shr-hyves{ background-position:-3990px top !important; }
+label.shr-pusha{ background-position:-4060px top !important; }
+label.shr-hatena{ background-position:-4130px top !important; }
+label.shr-mylinkvault{ background-position:-4200px top !important; }
+label.shr-slashdot{ background-position:-4270px top !important; }
+label.shr-squidoo{ background-position:-4340px top !important; }
+label.shr-propeller{ background-position:-4410px top !important; }
+label.shr-faqpal{ background-position:-4480px top !important; }
+label.shr-evernote{ background-position:-4550px top !important; }
+label.shr-meneame{ background-position:-4620px top !important; }
+label.shr-bitacoras{ background-position:-4690px top !important; }
+label.shr-jumptags{ background-position:-4760px top !important; }
+label.shr-bebo{ background-position:-4830px top !important; }
+label.shr-n4g{ background-position:-4900px top !important; }
+label.shr-strands { background-position:-4970px top !important; }
+label.shr-orkut { background-position:-5040px top !important; }
+label.shr-tumblr { background-position:-5110px top !important; }
+label.shr-stumpedia { background-position:-5180px top !important; }
+label.shr-current { background-position:-5250px top !important; }
+label.shr-blogger { background-position:-5320px top !important; }
+label.shr-plurk { background-position:-5390px top !important; }
+label.shr-virb { background-position:-5460px top !important; }
+label.shr-dzone { background-position:-5530px top !important; }
+label.shr-kaevur { background-position:-5600px top !important; }
+label.shr-box { background-position:-5670px top !important; }
+label.shr-boxnet { background-position:-5670px top !important; }
+label.shr-oknotizie { background-position:-5740px top !important; }
+label.shr-bonzobox { background-position:-5810px top !important; }
+label.shr-plaxo { background-position:-5880px top !important; }
+label.shr-springpad { background-position:-5950px top !important; }
+label.shr-zabox { background-position:-6020px top !important; }
+label.shr-viadeo { background-position:-6090px top !important; }
+label.shr-googlebuzz { background-position:-6160px top !important; }
+label.shr-gmail { background-position:-6230px top !important; }
+label.shr-buzzster { background-position:-6300px top !important; }
+
+ul.multi-selection {
+	list-style:none;
+	overflow:hidden;
+	position:absolute;
+	top:6px;
+	right:0;
+}
+ul.multi-selection li {
+	display:block;
+	float:left;
+	clear:none;
+	margin:0 !important;
+}
+ul.multi-selection li.label-faker {
+	margin-right:10px !important;
+}
+ul.multi-selection li input {
+
+}
+/* End Bookmarking Services Icons */
+/*------------------------------------------------------------------------------------------*/
+/* Main Structure Styles */
+div#shrsb-col-left { float:left; margin:40px 10px 0 0; }
+#shrsb-col-left label { margin:0 12px 0 0; }
+ul#shrsb-sortables li { list-style-type:none; margin:0 300px 20px 0; position:relative; }
+ul#shrsb-sortables { list-style-type:none; }
+div.box-mid-head {
+	background:transparent url('../images/flo-head.jpg') repeat-x scroll 0 0;
+	border:1px solid #DBDBDB;
+	cursor:move;
+	height:27px;
+	text-align:right;
+	width:100%;
+}
+div.box-mid-head h2 {
+	color:#21759b;
+	float:left;
+	font-family:Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+	height:24px;
+	line-height:20px;
+	margin:0;
+	padding:3px 0 0 10px;
+	text-align:left;
+}
+div.box-mid-head a:hover { border:medium none; }
+div.box-mid-head input { border:1px solid #ccc; }
+div.box-mid-body { background:#fff url('../images/white-pix.jpg') repeat-x center top; border:1px solid #dbdbdb; border-top:0 none; display:table; width:100%; }
+div.box-mid-body h3 { display:block; font-size:18px; font-weight:bold; margin:8px 0; }
+div#shrsb-col-right { clear:none; float:left; margin:40px 0 0; position:absolute; right:1.3%; width:256px; }
+div.box-right { float:left; margin-bottom:20px; }
+div.box-right-head { background:transparent url('../images/flo-head.jpg') repeat-x 0 0; border:1px solid #dbdbdb; float:left; height:27px; width:256px; }
+div.box-right-head h3 {
+	color:#21759b;
+	float:left;
+	font-family:Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+	height:24px;
+	line-height:20px;
+	margin:0;
+	padding:3px 0 0 10px;
+	text-align:left;
+}
+div.box-right-body { background:#fff url('../images/white-pix.jpg') repeat-x center top; border:1px solid #dbdbdb; border-top:0 none; float:left; width:256px; }
+div.box-right-body h4 { display:block; font-size:16px; font-weight:bold; margin:8px 0; }
+div.box-right-body ul { list-style-image:none; list-style-position:inside; list-style-type:none; margin:0; }
+div.box-right-body ul li strong { color:#454545; font-weight:bold}
+div.shrsbsubmit, div.shrsbreset {float:left;margin:0 0 20px;}
+div.shrsbreset {margin-left:50px}
+div.shrsbsubmit input, div.shrsbreset input {
+	font-size:18px !important;
+	padding:4px 8px !important;
+	border-radius:4px !important;
+	-moz-border-radius:4px !important;
+	-webkit-border-radius:4px !important;
+	outline:0 none !important;
+}
+div.shrsbsubmit input {
+	background:#3dcb36 url('../images/green-grad.png') repeat-x 0 0 !important;
+	border:1px solid #0f8f08 !important;
+	color:white !important;
+}
+div.shrsbreset input {
+	background:#f76363 url('../images/red-grad.png') repeat-x scroll 0 0 !important;
+	border:1px solid #9f3b3b !important;
+	color:white !important;
+}
+div.shrsbsubmit input:hover, div.shrsbreset input:hover {cursor:pointer !important}
+div.shrsbsubmit input:active, div.shrsbsubmit input:focus {
+	background-position:left bottom !important;
+	outline:0 none !important;
+}
+div.shrsbreset input:active, div.shrsbreset input:focus {
+	background-position:left bottom !important;
+	outline:0 none !important;
+}
+/* End Main Structure Styles */
+/*------------------------------------------------------------------------------------------*/
+/* Useful Links Section */
+div.box-right-body ul.infolinks { list-style-type:none; list-style-position:outside; }
+div.box-right-body ul.infolinks li {
+	background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2367px;
+	text-indent:22px;
+	line-height:15px;
+	margin-bottom:12px;
+	font-size:11px;
+}
+div.box-right-body ul.infolinks li a { text-decoration:none; }
+/* End Useful Links Section */
+/*------------------------------------------------------------------------------------------*/
+/* Credits Section */
+div.box-right-body ul.credits { list-style-type:none; list-style-position:outside; }
+div.box-right-body ul.credits li {
+	background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2585px;
+	text-indent:22px;
+	line-height:15px;
+	margin-bottom:12px;
+	font-size:11px;
+}
+div.box-right-body ul.credits li a { text-decoration:none; }
+/* End Credits Section */
+/*------------------------------------------------------------------------------------------*/
+/* Translations Section */
+div.box-right-body ul.langs { list-style-type:none; list-style-position:outside; }
+div.box-right-body ul.langs li {
+	background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2475px;
+	text-indent:22px;
+	line-height:15px;
+	margin-bottom:12px;
+	font-size:11px;
+}
+div.box-right-body ul.langs li a { text-decoration:none; }
+/* End Translations Section */
+/*------------------------------------------------------------------------------------------*/
+/* Custom Mods Warning */
+#custom-mods-notice {
+	padding: 5px 15px;
+	background:#ffefef;
+	border:5px solid #ef3b3b;
+	margin-bottom:25px;
+	display:none;
+}
+#custom-mods-notice h1 {
+	background:url('../images/warning-big.png') no-repeat 0 0;
+	font-size:48px;
+	height:48px;
+	line-height:42px;
+	text-indent:48px;
+	width:100%;
+	color: #ef3b3b !important;
+	margin:20px 0;
+	text-shadow: #cf2626 0 1px 0, #fff 0 -1px 0;
+}
+.custom-mods-notice-close {
+	cursor:pointer;
+	float:right;
+	color:#5c0101;
+	font-weight:bold;
+	display:block;
+	line-height:14px;
+	margin-bottom:5px;
+	padding-left:18px !important;
+}
+#custom-mods-notice h3 { margin:20px 0; }
+#custom-mods-notice p { line-height:22px; }
+#custom-mods-notice ol li { list-style:decimal; }
+#custom-mods-notice ul { list-style:none; list-style-position:outside; margin:15px 0 25px 15px; }
+#custom-mods-notice ul li { margin:15px 0 0 15px; padding:0 0 0 24px; line-height:22px; }
+#custom-mods-notice li a { color:#9f1313; }
+#custom-mods-notice ul li.custom-mods-folder { background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2020px; }
+#custom-mods-notice ul li.custom-mods-image { background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2137px; }
+#custom-mods-notice ul li.custom-mods-code { background:url('../images/custom-fugue-sprite.png') no-repeat 0 -2253px; }
+/* End Custom Mods Warning */
+/*------------------------------------------------------------------------------------------*/
+/* Custom Fugue Sprite Styles */
+.fugue { background: url('../images/custom-fugue-sprite.png') no-repeat; padding-left:22px; }
+.fugue.f-info { background-position:0 2px; margin:2px 10px 0 0; }
+.fugue.f-warn { background-position:0 -83px; margin:2px 10px 0 0; }
+.fugue.f-success { background-position:0 -178px; margin:2px 10px 0 0; }
+.fugue.f-question { background-position:0 -295px; margin:2px 10px 0 0; width:16px; border:0; padding:0; display:inline-block;}
+.fugue.f-info-frame { background-position:0 -411px; height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-error { background-position:0 -525px; margin:2px 10px 0 0; }
+.fugue.f-delete { background-position:0 -640px; }
+.fugue.f-globe-plus { background-position:0 -755px; height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-leaf-pencil { background-position:0 -871px;   height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-wrench { background-position:0 -987px;  height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-money { background-position:0 -1102px;  height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px;  }
+.fugue.f-medal { background-position:0 -1217px;  height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px;  }
+.fugue.f-pallette { background-position:0 -1332px; height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-plugin { background-position:0 -1447px; margin:5px 0 20px 0; padding-left:22px; display:block; clear:both; }
+.fugue.f-megaphone { background-position:0 -1564px;   height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-flags { background-position:0 -1680px;   height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-image { background-position:0 -1794px;   height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-footer { background-position:0 -1909px;   height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px; }
+.fugue.f-folder { background-position:0 -2020px; }
+.fugue.f-doc-image { background-position:0 -2137px; }
+.fugue.f-doc-code { background-position:0 -2253px; }
+.fugue.f-link-small { background-position:0 -2367px; }
+.fugue.f-globe-small { background-position:0 -2475px; }
+.fugue.f-star-small { background-position:0 -2585px; }
+.fugue.f-status { background-position:0 -2697px;  height:16px; line-height:16px; padding:0; position:relative; top:6px; left:10px; text-indent:25px;}
+/* End Custom Fugue Sprite Styles */
+/*------------------------------------------------------------------------------------------*/

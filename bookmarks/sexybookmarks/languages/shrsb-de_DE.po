@@ -1,0 +1,1353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SexyBookmarks v2.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-04 23:14-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Josh Jones, Norman Yung <info@sexybookmarks.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: F:\\Web Development\\Projects\\SexyBookmarks\\SVN Local\\trunk\n"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:5
+#: Local\trunk/bookmarks-data.php:10
+#: Local\trunk/bookmarks-data.php:15
+#: Local\trunk/bookmarks-data.php:20
+#: Local\trunk/bookmarks-data.php:25
+#: Local\trunk/bookmarks-data.php:30
+#: Local\trunk/bookmarks-data.php:35
+#: Local\trunk/bookmarks-data.php:40
+#: Local\trunk/bookmarks-data.php:45
+#: Local\trunk/bookmarks-data.php:50
+#: Local\trunk/bookmarks-data.php:55
+#: Local\trunk/bookmarks-data.php:60
+#: Local\trunk/bookmarks-data.php:65
+#: Local\trunk/bookmarks-data.php:70
+#: Local\trunk/bookmarks-data.php:85
+#: Local\trunk/bookmarks-data.php:90
+#: Local\trunk/bookmarks-data.php:95
+#: Local\trunk/bookmarks-data.php:100
+#: Local\trunk/bookmarks-data.php:105
+#: Local\trunk/bookmarks-data.php:110
+#: Local\trunk/bookmarks-data.php:115
+#: Local\trunk/bookmarks-data.php:120
+#: Local\trunk/bookmarks-data.php:125
+#: Local\trunk/bookmarks-data.php:130
+#: Local\trunk/bookmarks-data.php:135
+#: Local\trunk/bookmarks-data.php:140
+#: Local\trunk/bookmarks-data.php:145
+#: Local\trunk/bookmarks-data.php:150
+#: Local\trunk/bookmarks-data.php:155
+#: Local\trunk/bookmarks-data.php:160
+#: Local\trunk/bookmarks-data.php:165
+#: Local\trunk/bookmarks-data.php:170
+#: Local\trunk/bookmarks-data.php:175
+#: Local\trunk/bookmarks-data.php:180
+#: Local\trunk/bookmarks-data.php:185
+#: Local\trunk/bookmarks-data.php:190
+#: Local\trunk/bookmarks-data.php:195
+#: Local\trunk/bookmarks-data.php:200
+#: Local\trunk/bookmarks-data.php:205
+#: Local\trunk/bookmarks-data.php:210
+#: Local\trunk/bookmarks-data.php:215
+#: Local\trunk/bookmarks-data.php:220
+#: Local\trunk/bookmarks-data.php:225
+#: Local\trunk/bookmarks-data.php:230
+#: Local\trunk/bookmarks-data.php:235
+#: Local\trunk/bookmarks-data.php:240
+#: Local\trunk/bookmarks-data.php:245
+#: Local\trunk/bookmarks-data.php:250
+#: Local\trunk/bookmarks-data.php:255
+#: Local\trunk/bookmarks-data.php:260
+#: Local\trunk/bookmarks-data.php:265
+msgid "Check this box to include "
+msgstr "Nimm "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:5
+#: Local\trunk/bookmarks-data.php:6
+msgid "Script &amp; Style"
+msgstr "Script &amp; Style"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:5
+#: Local\trunk/bookmarks-data.php:10
+#: Local\trunk/bookmarks-data.php:15
+#: Local\trunk/bookmarks-data.php:20
+#: Local\trunk/bookmarks-data.php:25
+#: Local\trunk/bookmarks-data.php:30
+#: Local\trunk/bookmarks-data.php:35
+#: Local\trunk/bookmarks-data.php:40
+#: Local\trunk/bookmarks-data.php:45
+#: Local\trunk/bookmarks-data.php:50
+#: Local\trunk/bookmarks-data.php:55
+#: Local\trunk/bookmarks-data.php:60
+#: Local\trunk/bookmarks-data.php:65
+#: Local\trunk/bookmarks-data.php:70
+#: Local\trunk/bookmarks-data.php:75
+#: Local\trunk/bookmarks-data.php:80
+#: Local\trunk/bookmarks-data.php:85
+#: Local\trunk/bookmarks-data.php:90
+#: Local\trunk/bookmarks-data.php:95
+#: Local\trunk/bookmarks-data.php:100
+#: Local\trunk/bookmarks-data.php:105
+#: Local\trunk/bookmarks-data.php:110
+#: Local\trunk/bookmarks-data.php:115
+#: Local\trunk/bookmarks-data.php:120
+#: Local\trunk/bookmarks-data.php:125
+#: Local\trunk/bookmarks-data.php:130
+#: Local\trunk/bookmarks-data.php:135
+#: Local\trunk/bookmarks-data.php:140
+#: Local\trunk/bookmarks-data.php:145
+#: Local\trunk/bookmarks-data.php:150
+#: Local\trunk/bookmarks-data.php:155
+#: Local\trunk/bookmarks-data.php:160
+#: Local\trunk/bookmarks-data.php:165
+#: Local\trunk/bookmarks-data.php:170
+#: Local\trunk/bookmarks-data.php:175
+#: Local\trunk/bookmarks-data.php:180
+#: Local\trunk/bookmarks-data.php:185
+#: Local\trunk/bookmarks-data.php:190
+#: Local\trunk/bookmarks-data.php:195
+#: Local\trunk/bookmarks-data.php:200
+#: Local\trunk/bookmarks-data.php:205
+#: Local\trunk/bookmarks-data.php:210
+#: Local\trunk/bookmarks-data.php:215
+#: Local\trunk/bookmarks-data.php:220
+#: Local\trunk/bookmarks-data.php:225
+#: Local\trunk/bookmarks-data.php:230
+#: Local\trunk/bookmarks-data.php:235
+#: Local\trunk/bookmarks-data.php:240
+#: Local\trunk/bookmarks-data.php:245
+#: Local\trunk/bookmarks-data.php:250
+#: Local\trunk/bookmarks-data.php:255
+#: Local\trunk/bookmarks-data.php:260
+#: Local\trunk/bookmarks-data.php:265
+msgid " in your bookmarking menu"
+msgstr " in Dein Lesezeichen-Menü auf"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:6
+#: Local\trunk/bookmarks-data.php:61
+#: Local\trunk/bookmarks-data.php:141
+#: Local\trunk/bookmarks-data.php:181
+#: Local\trunk/bookmarks-data.php:241
+#: Local\trunk/bookmarks-data.php:246
+#: Local\trunk/bookmarks-data.php:251
+#: Local\trunk/bookmarks-data.php:256
+msgid "Submit this to "
+msgstr "Empfehle diesen Artikel bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:10
+#: Local\trunk/bookmarks-data.php:11
+msgid "Blinklist"
+msgstr "Blinklist"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:11
+#: Local\trunk/bookmarks-data.php:16
+#: Local\trunk/bookmarks-data.php:31
+#: Local\trunk/bookmarks-data.php:46
+#: Local\trunk/bookmarks-data.php:51
+#: Local\trunk/bookmarks-data.php:66
+#: Local\trunk/bookmarks-data.php:91
+#: Local\trunk/bookmarks-data.php:101
+#: Local\trunk/bookmarks-data.php:121
+#: Local\trunk/bookmarks-data.php:126
+#: Local\trunk/bookmarks-data.php:131
+#: Local\trunk/bookmarks-data.php:146
+#: Local\trunk/bookmarks-data.php:156
+#: Local\trunk/bookmarks-data.php:211
+#: Local\trunk/bookmarks-data.php:261
+#: Local\trunk/bookmarks-data.php:266
+msgid "Share this on "
+msgstr "Empfehle diesen Artikel bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:15
+msgid "Delicious"
+msgstr "Delicious"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:16
+msgid "del.icio.us"
+msgstr "del.icio.us"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:20
+msgid "Digg"
+msgstr "Digg"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:21
+msgid "Digg this!"
+msgstr "Digg this!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:25
+#: Local\trunk/bookmarks-data.php:26
+msgid "Diigo"
+msgstr "Diigo"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:26
+msgid "Post this on "
+msgstr "Ver&ouml;ffentliche dies bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:30
+#: Local\trunk/bookmarks-data.php:31
+msgid "Reddit"
+msgstr "Reddit"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:35
+msgid "Yahoo! Buzz"
+msgstr "Yahoo! Buzz"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:36
+msgid "Buzz up!"
+msgstr "Buzz up!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:40
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:41
+msgid "Stumble upon something good? Share it on StumbleUpon"
+msgstr "Bei StumbleUpon einstellen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:45
+#: Local\trunk/bookmarks-data.php:46
+msgid "Technorati"
+msgstr "Technorati"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:50
+#: Local\trunk/bookmarks-data.php:51
+msgid "Mixx"
+msgstr "Mixx"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:55
+#: Local\trunk/bookmarks-data.php:56
+msgid "MySpace"
+msgstr "MySpace"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:56
+#: Local\trunk/bookmarks-data.php:201
+#: Local\trunk/bookmarks-data.php:226
+msgid "Post this to "
+msgstr "Sende dies zu "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:60
+#: Local\trunk/bookmarks-data.php:61
+msgid "DesignFloat"
+msgstr "DesignFloat"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:65
+#: Local\trunk/bookmarks-data.php:66
+msgid "Facebook"
+msgstr "Facebook"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:70
+msgid "Twitter"
+msgstr "Twitter"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:71
+msgid "Tweet This!"
+msgstr "Twittere diesen Artikel!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:75
+#: Local\trunk/bookmarks-data.php:80
+msgid "Check this box to include the "
+msgstr "Wähle diese Box um folgendes einzuschließen:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:75
+msgid "\"Email to a Friend\" link"
+msgstr "\"Sende per Email\"-Link"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:76
+msgid "Email this to a friend?"
+msgstr "Sende diesen Artikel einem Freund per Email"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:80
+#: Local\trunk/bookmarks-data.php:81
+msgid "ToMuse"
+msgstr "ToMuse"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:81
+msgid "Suggest this article to "
+msgstr "Empfehle diesen Artikel "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:85
+msgid "a 'Subscribe to Comments' link"
+msgstr "einen 'Abonniere die Kommentare'-Link"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:86
+msgid "Subscribe to the comments for this post?"
+msgstr "Abonniere die Kommentare für diesen Beitrag"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:90
+#: Local\trunk/bookmarks-data.php:91
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:95
+#: Local\trunk/bookmarks-data.php:96
+msgid "Newsvine"
+msgstr "Newsvine"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:96
+msgid "Seed this on "
+msgstr "Sende dies zu "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:100
+#: Local\trunk/bookmarks-data.php:101
+msgid "Devmarks"
+msgstr "Devmarks"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:105
+#: Local\trunk/bookmarks-data.php:106
+msgid "Google Bookmarks"
+msgstr "Google Bookmarks"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:106
+#: Local\trunk/bookmarks-data.php:111
+#: Local\trunk/bookmarks-data.php:116
+#: Local\trunk/bookmarks-data.php:161
+#: Local\trunk/bookmarks-data.php:166
+#: Local\trunk/bookmarks-data.php:171
+#: Local\trunk/bookmarks-data.php:176
+#: Local\trunk/bookmarks-data.php:196
+msgid "Add this to "
+msgstr "Füge hinzu zu "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:110
+#: Local\trunk/bookmarks-data.php:111
+msgid "Mister Wong"
+msgstr "Mister Wong"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:112
+msgid "www.mister-wong.com"
+msgstr "www.mister-wong.com"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:115
+#: Local\trunk/bookmarks-data.php:116
+msgid "Izeby"
+msgstr "Izeby"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:120
+#: Local\trunk/bookmarks-data.php:121
+msgid "Tipd"
+msgstr "Tipd"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:125
+#: Local\trunk/bookmarks-data.php:126
+msgid "PFBuzz"
+msgstr "PFBuzz"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:130
+#: Local\trunk/bookmarks-data.php:131
+msgid "FriendFeed"
+msgstr "FriendFeed"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:135
+#: Local\trunk/bookmarks-data.php:136
+msgid "BlogMarks"
+msgstr "BlogMarks"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:136
+msgid "Mark this on "
+msgstr "Sende dies nach "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:140
+#: Local\trunk/bookmarks-data.php:141
+msgid "Twittley"
+msgstr "Twittley"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:145
+#: Local\trunk/bookmarks-data.php:146
+msgid "Fwisp"
+msgstr "Fwisp"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:150
+#: Local\trunk/bookmarks-data.php:151
+msgid "DesignMoo"
+msgstr "DesignMoo"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:151
+msgid "Moo this on "
+msgstr "Moo dies bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:155
+#: Local\trunk/bookmarks-data.php:156
+msgid "BobrDobr"
+msgstr "BobrDobr"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:155
+#: Local\trunk/bookmarks-data.php:160
+#: Local\trunk/bookmarks-data.php:165
+#: Local\trunk/bookmarks-data.php:170
+#: Local\trunk/bookmarks-data.php:175
+msgid " (Russian)"
+msgstr " (Russisch)"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:160
+#: Local\trunk/bookmarks-data.php:161
+msgid "Yandex.Bookmarks"
+msgstr "Yandex.Bookmarks"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:165
+#: Local\trunk/bookmarks-data.php:166
+msgid "Memory.ru"
+msgstr "Memory.ru"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:170
+#: Local\trunk/bookmarks-data.php:171
+msgid "100 bookmarks"
+msgstr "100 bookmarks"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:175
+#: Local\trunk/bookmarks-data.php:176
+msgid "MyPlace"
+msgstr "MyPlace"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:180
+#: Local\trunk/bookmarks-data.php:181
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:185
+#: Local\trunk/bookmarks-data.php:186
+msgid "Print Friendly"
+msgstr "Druckerfreundlich"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:186
+msgid "Send this page to "
+msgstr "Sende diese Seite zu "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:190
+msgid "Design Bump"
+msgstr "Design Bump"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:191
+msgid "Bump this on "
+msgstr "Bump dies bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:191
+msgid "DesignBump"
+msgstr "DesignBump"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:195
+#: Local\trunk/bookmarks-data.php:196
+msgid "Ning"
+msgstr "Ning"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:200
+#: Local\trunk/bookmarks-data.php:201
+msgid "Identica"
+msgstr "Identica"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:205
+#: Local\trunk/bookmarks-data.php:206
+msgid "Xerpi"
+msgstr "Xerpi"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:206
+msgid "Save this to "
+msgstr "Speichere diese Seite bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:210
+#: Local\trunk/bookmarks-data.php:211
+msgid "Wikio"
+msgstr "Wikio"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:215
+#: Local\trunk/bookmarks-data.php:216
+msgid "TechMeme"
+msgstr "TechMeme"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:216
+msgid "Tip this to "
+msgstr "Empfehle diese Seite bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:220
+#: Local\trunk/bookmarks-data.php:221
+msgid "Sphinn"
+msgstr "Sphinn"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:221
+msgid "Sphinn this on "
+msgstr "Empfehle diese Seite bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:225
+#: Local\trunk/bookmarks-data.php:226
+msgid "Posterous"
+msgstr "Posterous"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:230
+#: Local\trunk/bookmarks-data.php:231
+msgid "Global Grind"
+msgstr "Global Grind"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:231
+msgid "Grind this! on "
+msgstr "Empfehle diese Seite bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:235
+#: Local\trunk/bookmarks-data.php:236
+msgid "Ping.fm"
+msgstr "Ping.fm"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:236
+msgid "Ping this on "
+msgstr "Empfehle diese Seite bei "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:240
+#: Local\trunk/bookmarks-data.php:241
+msgid "NUjij"
+msgstr "NUjij"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:240
+#: Local\trunk/bookmarks-data.php:245
+msgid " (Dutch)"
+msgstr "(Holländisch)"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:245
+#: Local\trunk/bookmarks-data.php:246
+msgid "eKudos"
+msgstr "eKudos"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:250
+#: Local\trunk/bookmarks-data.php:251
+msgid "Netvouz"
+msgstr "Netvouz"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:255
+#: Local\trunk/bookmarks-data.php:256
+msgid "Netvibes"
+msgstr "Netvibes"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:260
+#: Local\trunk/bookmarks-data.php:261
+msgid "Fleck"
+msgstr "Fleck"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/bookmarks-data.php:265
+#: Local\trunk/bookmarks-data.php:266
+msgid "Blogosphere News"
+msgstr "Blogosphere News"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN Local\trunk/public.php:121
+msgid "an error occurred in SexyBookmarks"
+msgstr "ein Fehler ist in SexyBookmarks aufgetreten"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:94
+msgid "Your changes have been saved successfully!"
+msgstr "Deine Änderungen wurde erfolgreich gespeichert"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:94
+msgid "Maybe you would consider "
+msgstr "Würdest Du in Erwägung ziehen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:94
+msgid "donating"
+msgstr "etwas zu spenden"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:97
+msgid "Please choose where you would like the menu to be displayed."
+msgstr "Wo soll das Menü angezeigt werden."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:98
+msgid "You can't display the menu if you don't choose a few sites to add to it!"
+msgstr "Du kannst kein Menü anzeigen, ohne ein paar Seiten ausgewählt zu haben"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:99
+msgid "Please choose where you want the menu displayed."
+msgstr "Bitte wähle aus, wo das Menü angezeigt werden soll"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:103
+msgid "You need to select the primary category for any articles submitted to Twittley."
+msgstr "Du musst die Primär-Kategorie setzen für die Artikel, die zu Twittley gesendet werden sollen."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:104
+msgid "You need to set at least 1 default tag for any articles submitted to Twittley."
+msgstr "Du musst mindestens einen Default-Tag setzen für die Artikel, die zu Twittley gesendet werden sollen."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:114
+msgid "You must first download and activate the"
+msgstr "Du musst zunächst folgendes Downloaden und installieren:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:114
+msgid "Twitter Friendly Links Plugin"
+msgstr "Twitter Friendly Links Plugin"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:114
+msgid "before hosting your own short URLs..."
+msgstr " bevor Du deine eigenen Kurz-URLs verwenden kannst."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:132
+msgid "Due to recent API changes by Tumblr, I can no longer offer them as a supported network in the plugin."
+msgstr "Wegen der jüngsten API-Änderungen bei Tumblr kann ich dieses Netzwerk in dem Plugin leider nicht mehr unterstützen."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:137
+msgid "We're currently working on a more sophisticated solution for the email link and will re-enable it when finished."
+msgstr "Wir arbeiten derzeit an einer besseren Unterstützung für den EMail link und werden ihn dann wieder aktivieren."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:142
+msgid " Short URLs have been reset."
+msgstr "Die Kurz-URLs sind zurückgesetzt worden."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:185
+msgid "You are using an outdated version of the plugin"
+msgstr "Diese Version von dem Plugin ist leider veraltet."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:185
+msgid "please update if you wish to enjoy all available features!"
+msgstr "Bitte update es, damit Du alle neuen Features benutzen kannst."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:196
+msgid "You are using the development version of the plugin"
+msgstr "Dies ist eine Entwickler-Version dieses Plugins."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:196
+msgid " beta"
+msgstr " beta"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:196
+msgid "please "
+msgstr "bitte"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:196
+msgid "let us know of any bugs"
+msgstr "lass uns von etwaigen Bugs wissen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:196
+msgid "you may encounter!"
+msgstr "solltest Du welche finden!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:213
+msgid "Enabled Networks"
+msgstr "Aktivierte Netzwerke"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:223
+msgid "Select the Networks to display. Drag to reorder."
+msgstr "Wähle die Netzwerke, die angezeigt werden sollen, ziehe sie um zu sortieren"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:237
+msgid "Functionality Settings"
+msgstr "Einstellungen zu Funktionalitäten"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:250
+msgid "This will clear <u>ALL</u> short URLs. - Are you sure?"
+msgstr "Dies wird ALLE Kurz-Urls zurücksetzen. Sicher?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:253
+#: Local\trunk/sexy-bookmarks.php:356
+#: Local\trunk/sexy-bookmarks.php:359
+#: Local\trunk/sexy-bookmarks.php:397
+#: Local\trunk/sexy-bookmarks.php:517
+msgid "Yes"
+msgstr "Ja"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:253
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:257
+msgid "Twitter Options:"
+msgstr "Twitter Einstellungen:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:258
+msgid "Twitter ID:"
+msgstr "Twitter ID:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:261
+msgid "Which URL Shortener?"
+msgstr "Welcher Kurz-URL-Dienst?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:280
+msgid "Reset all Short URLs"
+msgstr "Setze alle Kurz-URLs zurück"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:292
+msgid "Yahoo! Buzz Defaults:"
+msgstr "Yahoo! Buzz Defaults:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:293
+msgid "Default Content Category:"
+msgstr "Standard Kategorie für Inhalte:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:327
+msgid "Twittley Defaults:"
+msgstr "Twittley Defaults:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:328
+msgid "Primary Content Category:"
+msgstr "Kategorie für primären Inhalt:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:346
+msgid "Enter a comma separated list of general tags which describe your site's posts as a whole. Try not to be too specific, as one post may fall into different \"tag categories\" than other posts."
+msgstr "Bitte gib eine Kommagetrennte liste von allgemeinsn Tags ein, welche Deine Beiträge insgesamt charakterisieren. Bitte sein nich zu spezifisch, da einzelne Beiträge in unterschiedliche Tag-Kategorien fallen könnten."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:347
+msgid "This list is primarily used as a failsafe in case you forget to enter WordPress tags for a particular post, in which case this list of tags would be used so as to bring at least *somewhat* relevant search queries based on the general tags that you enter here."
+msgstr "Diese liste wird vornehmlich als Fallback genutzt, falls Du vergisst, Wordpress-Tags für einen speziellen Post zu setzen. In diesem Fall wird diese Liste verwendet um irgendetwas Sinnvolles einzutragen."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:347
+msgid "Click here to close this message"
+msgstr "Bitte hier klicken um diese Nachricht zu schließen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:347
+msgid "close"
+msgstr "Schließen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:349
+msgid "Default Tags:"
+msgstr "Standard Tags:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:350
+#: Local\trunk/sexy-bookmarks.php:515
+msgid "Click here for help with this option"
+msgstr "Klicke hier für Hilfe mit dieser Option"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:354
+msgid "General Functionality Options:"
+msgstr "Einstellungen für generelle Funktionen:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:355
+msgid "Add nofollow to the links?"
+msgstr "Nofollow an die Links anhängen?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:357
+#: Local\trunk/sexy-bookmarks.php:360
+#: Local\trunk/sexy-bookmarks.php:398
+#: Local\trunk/sexy-bookmarks.php:402
+#: Local\trunk/sexy-bookmarks.php:518
+msgid "No"
+msgstr "Nein"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:358
+msgid "Open links in new window?"
+msgstr "Links in neuem Fenster öffnen?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:368
+msgid "General Look &amp; Feel"
+msgstr "Allgemeines Aussehen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:381
+#: Local\trunk/sexy-bookmarks.php:390
+msgid "This will void any custom CSS applied below."
+msgstr "Dies überschreibt jegliches unten angegebene CSS."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:384
+#: Local\trunk/sexy-bookmarks.php:393
+msgid "Ok"
+msgstr "Ok"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:396
+msgid "Animate-expand multi-lined bookmarks?"
+msgstr "Mehrzeilige Anzeige animieren?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:399
+msgid "Auto-space/center the bookmarks?"
+msgstr "Anzeige automatisch ausrichten / zentrieren?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:400
+msgid "Space"
+msgstr "Ausrichten (verteilen)"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:401
+msgid "Center"
+msgstr "Zentrieren"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:415
+msgid "If you see this message, please delete the contents of this textarea and click \\\"Save Changes\\\"."
+msgstr "Wenn Du diese Nachricht siehst, dann lösche bitte den Inhalt dieses Feldes und speichere alle Änderungen."
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:419
+msgid "You can style the DIV that holds the menu here:"
+msgstr "Du kannst das DIV, welches das Menü umschließt hier anpassen:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:422
+msgid "jQuery Compatibility Fix"
+msgstr "Kompatibilitäts-Fix für jQuery"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:423
+msgid "Check this box ONLY if the animate-expand, auto-center, or auto-space features don't work for you!"
+msgstr "Checke dieses Feld NUR, wenn Du probleme mit der Animation, dem Zentrieren oder dem Ausrichten hast!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:431
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:442
+msgid "Use a background image?"
+msgstr "Nutzen des Hintergrundbildes?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:470
+msgid "Menu Placement"
+msgstr "Menu-Position"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:483
+msgid "Need help with this? Find it in the "
+msgstr "Brauchst Du Hilfe hiermit? Du bekommst sie"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:483
+msgid "official install guide"
+msgstr "im offiziellen Installations-Leitfaden"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:492
+msgid "This feature is still in the experimental phase, so please "
+msgstr "Diese Funktion ist noch experimentell, bitte"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:492
+msgid "report any bugs"
+msgstr "teile uns etwaige Fehler mit, "
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:492
+msgid "you may find"
+msgstr "die Du findest"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:498
+msgid "Menu Location (in relevance to content):"
+msgstr "Menu-Position (im Verhältnis zum Inhalt des Beitrags)"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:499
+msgid "Above Content"
+msgstr "darüber"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:500
+msgid "Below Content"
+msgstr "darunter"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:501
+msgid "Manual Mode"
+msgstr "manuell"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:502
+msgid "Posts, pages, or the whole shebang?"
+msgstr "Beiträge, Seiten oder alles?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:516
+msgid "Show in RSS feed?"
+msgstr "In den RSS-Feed einfügen?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:520
+msgid "Hide menu from mobile browsers?"
+msgstr "Menü auf mobilen Browsern entfernen?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:528
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:536
+msgid "Plugin Info"
+msgstr "Über dieses Plugin"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:540
+msgid "Helpful Plugin Links:"
+msgstr "Hilfreiche Links zu diesem Plugin:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:542
+msgid "Installation &amp; Usage Guide"
+msgstr "Installations-Leitfaden; Benutzer-Leitfaden"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:543
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:544
+msgid "Bug Submission Form"
+msgstr "Formular zum Melden von Fehlern"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:545
+msgid "Feature Request Form"
+msgstr "Formular für Erweiterungsanfragen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:546
+msgid "Other SexyBookmarks Platforms"
+msgstr "SexyBookmarks auf anderen Plattformen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:547
+msgid "SexyFox Firefox Toolbar"
+msgstr "SexyFox Firefox Toolbar"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:550
+msgid "Current Plugin Stats:"
+msgstr "Aktuelle Plugin-Statistiken"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:559
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:571
+msgid "Stable Version:"
+msgstr "Stabile Version:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:572
+msgid "Last Updated:"
+msgstr "Letztes Update:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:573
+msgid "Downloaded:"
+msgstr "Heruntereladen:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:573
+msgid "times"
+msgstr "Male"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:574
+msgid "User Rating:"
+msgstr "User-Bewertung:"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:574
+msgid "stars - Based on"
+msgstr "Sterne - basierend auf"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:574
+msgid "votes"
+msgstr "Stimmen"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:582
+msgid "Plugin Sponsors"
+msgstr "Plugin-Sponsoren"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:615
+msgid "Support by Donating"
+msgstr "Unterstützung durch Spenden"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:619
+msgid "Surely the fact that we're making the web a sexier place one blog at a time is worth a drink or three, right?"
+msgstr "Die Tatsache, dass wir das Web Blog für Blog zu einem sexieren Ort machen ist doch sicherlich einen Drink oder drei wert, oder?"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:621
+#: Local\trunk/sexy-bookmarks.php:624
+msgid "Help support the development of this plugin by donating!"
+msgstr "Hilf uns, dieses Plugin zu enwickeln, in dem Du spendest!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:634
+msgid "Top Supporters"
+msgstr "Top Unterstützer"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:669
+msgid "Shout-Outs"
+msgstr "Shout-Outs"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:674
+msgid "GUI Icons: Pinvoke"
+msgstr "GUI Icons: Pinvoke"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:675
+msgid "Original Skin Icons: Function"
+msgstr "Original Skin Icons: Function"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:676
+msgid "Bug Patch: Artem Russakovskii"
+msgstr "Bug Patch: Artem Russakovskii"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:677
+msgid "Twitter encoding fix: Gautam Gupta"
+msgstr "Twitter encoding fix: Gautam Gupta"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:678
+msgid "Russian translation: Yuri Gribov"
+msgstr "Russian translation: Yuri Gribov"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:679
+msgid "French translation: Maitre Mo"
+msgstr "French translation: Maitre Mo"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:680
+msgid "bit.ly bug fix: Konstantin Kovshenin"
+msgstr "bit.ly bug fix: Konstantin Kovshenin"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:681
+msgid "Romanian translation: Ghenciu Ciprian"
+msgstr "Romanian translation: Ghenciu Ciprian"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:682
+msgid "Italian translation: Carlo Veltri"
+msgstr "Italian translation: Carlo Veltri"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:707
+msgid "You're using an outdated version of SexyBookmarks!"
+msgstr "Du benutzt eine abgelaufene Version von Sexy-Bookmarks!"
+
+#: F:\Web
+#: Development\Projects\SexyBookmarks\SVN
+#: Local\trunk/sexy-bookmarks.php:707
+msgid "Please update to the latest version"
+msgstr "Bitte update auf die letzte Version!"
+

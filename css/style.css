@@ -1,0 +1,228 @@
+* {
+    font-family: verdana;
+}
+
+body {
+    font-size:0.96em;
+    background-color:#d6d7ce;
+    color: #999999; 
+    font-family: Helvetica,Arial,sans-serif;
+    margin: 0; 
+    padding: 0;
+}
+
+
+div#body {
+	width:898px;
+	background-color:#FFFFFF;
+	border:1px solid #525152;
+	padding-bottom:40px;
+}
+
+div#randomlinks {
+	margin:10px;
+	text-align:center;
+}
+
+div.random {
+	border:1px dashed silver;
+	background-color:#F0F0F0;
+	margin:2px;
+	height:30px;
+	line-height:26px;
+	width:282px;
+	float:left;
+}
+
+div.random a {
+	color:#666666;
+	margin:2px;
+	height:26px;
+	width:278px;
+}
+
+div.random a:hover {
+	display:block;
+	background-color:#DEDEDE;
+}
+
+h1 {
+    text-align:center;
+    font-size: 1.6em;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-family: Verdana;
+    letter-spacing: 0.1em;
+    font-size: 250%;
+    font-family: "Times New Roman", "Trebuchet MS", Georgia, serif;
+    font-weight:normal;
+}
+
+div.navigation {
+	line-height:22px;
+	width:720px;
+	height:43px;
+	background-image: url("/images/navi-bg.png");
+	text-align:center;
+	padding:0px;
+	margin:0px;
+}
+
+div.navigation a {
+    margin:10px;
+    margin-left:28px;
+    border:1px dotted silver;
+    float:left;
+    display:block;
+    width:100px;
+    font-size: 0.7em;
+    color:#000000;
+    text-align: center;
+    text-decoration:none;
+}
+
+div.navigation a:hover {
+	background-color: silver;
+}
+
+div#Inhalt {
+    margin: 0 1em 1em 1em;
+    padding: 0 1em;
+    width:712px;
+}
+
+* html div#Inhalt {
+    height: 1em;  
+}
+
+div#Inhalt h2 {
+    font-size: 1.2em;
+    margin: 0.2em 0;
+}
+
+div#Inhalt p {
+    font-size: 0.8em;
+    margin: 1em 0;
+}
+
+p.msg {
+    border: 1px dashed silver;
+    text-align:center;
+    font-size:1em;
+    padding:20px;
+    padding-left:160px;
+    padding-right:160px;
+    color:red;
+}
+
+a.big {
+    padding:6px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:1.4em;
+    border: 1px solid silver;
+    background-color:#EEEEEE;
+    text-decoration:none;
+    color:#000000;
+}
+
+p#footer {
+    clear: both;
+    font-size: 0.7em;
+    color:#FFFFFF;
+    margin: 0; padding: 0.1em;
+    text-align: center;
+    line-height:30px;
+}
+
+p#footer a {
+	color:#FFFFAA;
+	text-decoration:none;
+}
+
+h2 {
+	font-family: "Times New Roman", "Trebuchet MS", Georgia, serif;
+	font-weight:normal;
+	color:#334523;
+}
+ 
+div {
+	margin:0;
+}
+ 
+.text {
+	margin:0;
+	padding:0em 2.5em 3.5em 2.5em;
+	font-size:1.2em;
+}
+ 
+div.message {
+	background-color:#FAFAFA;
+	border:1px dashed #999999;
+	overflow:auto;
+	width: 630px;
+}
+
+#form {
+	position:relative;
+	top:-8px;
+	background-color:#7be7ff;
+	font-size:1.4em;
+	border-top:1px solid silver;
+	border-bottom:1px solid silver;
+	color:#000000;
+	padding-bottom:25px;
+}
+
+a.navlink {
+	color:#000000;
+}
+
+#form input {
+	border:1px solid #AAAAAA;
+	background-color:#82efff;
+	margin:6px;
+	padding:6px;
+}
+
+p#text {
+	padding:20px;
+	padding-top:0px;
+	margin-top:0px;
+	padding-left:100px;
+	padding-right:100px;
+	text-align: justify;
+}
+
+div#footer {
+	width:902px;
+	height:33px;
+	background: url("/images/footer-bg.png") top right no-repeat;
+}
+
+div#header {
+	width:902px;
+	height:110px;
+	background: url("/images/body-bg.png") top right no-repeat;
+}
+td a {
+	color:#999999;
+}
+
+td {
+	font-size:0.76em;
+}
+
+button.imgbutton {
+	border:0px solid black;
+	background-color:#7be7ff;
+}
+
+tr.validation2 td.inp {
+	border:3px solid #AA0000;
+}
+
+a.apilink {
+	color:#000000;
+	text-decoration:none;
+}
