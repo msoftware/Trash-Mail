@@ -20,7 +20,7 @@ Trash Mail $version Features:
 <li>Facebook, Twitter und Social Bookmark Integration
 <li>Weiterempfehlen Formular mit Captcha Code
 <li>Template basiertes Webdesign
-<li>Unfangreiche FAQ
+<li>Umfangreiche FAQ
 <li>Kontaktformular
 </ul>
 <br><br>
