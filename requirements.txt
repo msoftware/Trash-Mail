@@ -1,0 +1,5 @@
+To run Trash Mail on your host, you need a couple of things:
+
+- PHP version 4.3 or greater
+- The php CURL extension is required
+- php.ini "allow_url_fopeni=true" enables the URL-aware fopen wrappers
