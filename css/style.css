@@ -226,3 +226,18 @@ a.apilink {
 	color:#000000;
 	text-decoration:none;
 }
+
+#qrcode {
+	margin-left:40px;
+	margin-right:40px;
+	border:1px solid silver;
+	width:101px;
+	height:101px;
+	overflow:hidden;
+}
+
+#qrcode img {
+	position:relative;
+	left:-19px;
+	top:-19px;
+}

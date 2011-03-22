@@ -4,7 +4,14 @@ $form = "<center><div id='form'><br><form method='GET'><table >
            value='" . $searchtxt . "'>@" . $maildomain . "
          </td><td align=center valign=center>
 	<button class='imgbutton' type='submit'><img src='/images/load-mail.png'></button>
-	</td></tr>";
+	</td>";
+
+if (strlen ($searchtxt) > 0)
+{
+	$form .= "<td rowspan='2'><div id='qrcode'><img src='qrcode.php?search=" . $searchtxt . "'></div>";
+}
+
+$form .= "</tr>";
 
 if (strlen ($searchtxt) > 0)
 {

@@ -183,4 +183,36 @@ function object2array($object)
    return $return;
 }
 
+function short_url($longurl)
+{
+    $url = "http://p0i.de/api.php?action=shorturl&url=" . urlencode ($longurl) . "\r\n";
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_HEADER, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    $poi = curl_exec($ch);
+    if (strlen ($poi) > 20)
+    {
+	$poi = object2array (simplexml_load_string ($poi));
+	$shorturl = trim ($poi["shorturl"]);
+    }
+    curl_close($ch);
+    return $shorturl;
+}
+
+function get_qr_code ($text)
+{
+	//QR Code Configuration
+	$size     = "140x140";
+	$encoding = "UTF-8";
+	$ecl      = "H";
+	$longurl = "http://" . $_SERVER['SERVER_NAME'] . "/?search=" . $text;
+	$shorturl = short_url($longurl);
+	$url =  "https://chart.googleapis.com/chart?cht=qr&chl=" .
+		$shorturl . "&chs=" . $size . "&choe=" . $encoding . "&chld=" . $ecl;
+	$qr_code = file_get_contents($url);
+	return $qr_code;
+}
+
 ?>
