@@ -3,3 +3,14 @@ http://www.wegwerf-e-mail-adresse.de/
 
 Copyright (C) 2010 - 2011 Michael Jentsch
 Available under the GNU General Public License
+
+Changelog:
+
+V0.8.2
+Bugfix QR Code (URL shortener timeout)
+
+V0.8.1
+New feature: QR Code
+
+V0.7.5 
+First public version

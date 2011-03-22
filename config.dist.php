@@ -4,7 +4,7 @@ error_reporting(0);
 ini_set('display_errors',0);
 
 /* Trash Mail Scrip Version */
-$version = "0.8.1";
+$version = "0.8.2";
 
 /* Google Mail Zugangsdaten */
 $username = 'TODO Google MAIL E-MAIL';

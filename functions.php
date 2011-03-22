@@ -190,7 +190,7 @@ function short_url($longurl)
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_HEADER, 0);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
     $poi = curl_exec($ch);
     if (strlen ($poi) > 20)
     {
@@ -204,11 +204,13 @@ function short_url($longurl)
 function get_qr_code ($text)
 {
 	//QR Code Configuration
-	$size     = "140x140";
+	$size     = "200x200";
 	$encoding = "UTF-8";
 	$ecl      = "H";
 	$longurl = "http://" . $_SERVER['SERVER_NAME'] . "/?search=" . $text;
 	$shorturl = short_url($longurl);
+	if (strlen ($shorturl) < 3)
+		$shorturl = short_url($longurl);
 	$url =  "https://chart.googleapis.com/chart?cht=qr&chl=" .
 		$shorturl . "&chs=" . $size . "&choe=" . $encoding . "&chld=" . $ecl;
 	$qr_code = file_get_contents($url);
