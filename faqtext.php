@@ -28,11 +28,13 @@ Alle Emails bleiben dauerhaft erhalten. Die Wegwerf E-Mail Adresse hat einen Spe
 mehreren Gigabyte. Erst wenn dieser Speicherplatz erschöpft ist, werden die ältesten Mails gelöscht.
 
 <h2>Ist es möglich, E-Mails zu löschen?</h2>
-Das Löschen von E-Mails ist momentan noch nicht implementiert. Sollten Sie eine E-Mail löschen wollen, 
-schreiben Sie bitte eine E-Mail an den Support oder nutzen Sie das Kontaktformular. Teilen Sie uns auf
-jeden Fall genau mit, welche E-Mail Sie gerne gelöscht haben wollen. Am besten ist es, Sie 
-kopieren den Permalink der E-Mail in das Kontaktformular und teilen uns mit, dass die E-Mail gelöscht 
-werden soll.
+Das Löschen von E-Mails ist möglich. Sie können eine E-Mail aus dem Posteingang löschen, indem Sie den 
+Löschen Button (oben rechts im E-Mail Kopf der rote Button) der
+Mail im Posteingang drücken. Sollten Sie eine E-Mail löschen wollen, nutzen Sie bitte diese Funktion. Sollte
+es Probleme geben beim Löschen von E-Mails geben, schreiben Sie bitte eine E-Mail an den Support oder nutzen 
+Sie das Kontaktformular. Teilen Sie uns auf jeden Fall genau mit, welche E-Mail Sie gerne gelöscht haben 
+wollen. Am besten ist es, Sie kopieren den Permalink der E-Mail in das Kontaktformular und teilen uns mit, 
+dass die E-Mail gelöscht werden soll.
 
 <h2>Wo sind meine Anhänge?</h2>
 Die Anhänge von E-Mail werden bei unserem Wegwerf E-Mail Dienst nicht berücksichtigt. D.H. Anhänge an E-Mails
