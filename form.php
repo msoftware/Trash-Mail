@@ -8,7 +8,8 @@ $form = "<center><div id='form'><br><form method='GET'><table >
 
 if (strlen ($searchtxt) > 0)
 {
-	$form .= "<td rowspan='3'><div id='qrcode'><img src='qrcode.php?search=" . $searchtxt . "'></div>";
+	$form .= "<td rowspan='3' align='center'><div id='qrcode'><img src='qrcode.php?search=" . $searchtxt . "'></div>" .
+		 "<a href='qrcode.php?search=" . $searchtxt . "&download=1'>Download</a>";
 }
 
 $form .= "</tr>";
@@ -18,7 +19,8 @@ if (strlen ($searchtxt) > 0)
 	$myurl = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'] . "?search=" . $searchtxt; 
 	$form .= "<tr><td align=center valign=center colspan=2>
 		Permalink: <input type='text' size='50' value='" . $myurl . "' readonly>
-		</td></tr><tr><td colspan='2'></tr>";
+		</td></tr><tr><td colspan='2'>E-Mail Adresse: <h2 class='mail'>" . 
+			$searchtxt . "@" . $maildomain . "</h2></td></tr>";
 }
 
 $form .= "</table></form></div></center>";

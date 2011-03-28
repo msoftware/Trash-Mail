@@ -7,11 +7,20 @@ header('Cache-Control: no-store, no-cache, must-revalidate');
 header('Cache-Control: post-check=0, pre-check=0', false);
 header('Pragma: no-cache');
 
-header("Content-Type: image/png");
+
 
 $text     = $_GET['search'];
+$size     = "200x200";
+if (isset ($_GET['download']))
+{
+	header("Content-Disposition: attachment; filename=$text.png");
+	$size = "500x500";
+}
 
-$qr_code = get_qr_code ($text);
+header("Content-Type: image/png");
+
+
+$qr_code = get_qr_code ($text, $size);
 
 echo $qr_code;
 ?>

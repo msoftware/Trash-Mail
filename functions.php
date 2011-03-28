@@ -189,12 +189,12 @@ function short_url($longurl, $retry = 0)
     if ($retry > $maxretry) return "";
     $url = "http://p0i.de/api.php?action=shorturl&url=" . urlencode ($longurl);
     $poi = file_get_contents($url);
-    logToFile ("short_url " . $url . " " . $retry . " " . strlen ($poi));
+    // logToFile ("short_url " . $url . " " . $retry . " " . strlen ($poi));
     if (strlen ($poi) > 20)
     {
 	$poi = object2array (simplexml_load_string ($poi));
 	$shorturl = trim ($poi["shorturl"]);
-    	logToFile ("short_url " . $shorturl);
+    	// logToFile ("short_url " . $shorturl);
     } else {
 	// Retry on error
 	sleep (3);
@@ -203,10 +203,9 @@ function short_url($longurl, $retry = 0)
     return $shorturl;
 }
 
-function get_qr_code ($text)
+function get_qr_code ($text, $size)
 {
 	//QR Code Configuration
-	$size     = "200x200";
 	$encoding = "UTF-8";
 	$ecl      = "H";
 	$longurl = "http://" . $_SERVER['SERVER_NAME'] . "/?search=" . $text;
@@ -250,5 +249,5 @@ function myErrorHandler($fehlercode, $fehlertext, $fehlerdatei, $fehlerzeile)
     return true;
 }
 
-set_error_handler("myErrorHandler");
+// set_error_handler("myErrorHandler");
 ?>

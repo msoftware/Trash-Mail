@@ -145,6 +145,12 @@ h2 {
 	font-weight:normal;
 	color:#334523;
 }
+
+h2.mail {
+	display:inline;
+	margin:0px;
+	padding:0px;
+}
  
 div {
 	margin:0;

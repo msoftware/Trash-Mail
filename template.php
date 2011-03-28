@@ -4,6 +4,7 @@
 <script type="text/javascript" src="/bookmarks/jquery-1.5.1.js"></script>
 <script type="text/javascript" src="/bookmarks/bookmarks-public.js"></script>
 
+<script type="text/javascript" src="/js/functions.js"></script>
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/jqModal.js"></script>
 <script type="text/javascript" src="/js/popup.js"></script>
