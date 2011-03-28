@@ -227,12 +227,17 @@ a.apilink {
 	text-decoration:none;
 }
 
+div.email {
+	margin-bottom:10px;
+}
+
 #qrcode {
 	margin-left:40px;
 	margin-right:40px;
 	border:1px solid silver;
 	width:161px;
 	height:161px;
+	background: url("/images/qrcode-loader.gif") 30px 30px no-repeat;
 	overflow:hidden;
 }
 
@@ -240,4 +245,22 @@ a.apilink {
 	position:relative;
 	left:-19px;
 	top:-19px;
+}
+
+/* PopUu */
+div.jqmdAbove { z-index: 5000; top: 8%; }
+
+div.jqmdWide { width: 560px; margin-left: -280px; }
+div.jqmdTall { height: 330px; }
+
+
+div.centered { width: 100%; text-align: center; }
+div.buttons input{ margin: 10px 14px; }
+div.output { margin: 10px; color: red; }
+
+.largeText { font-size: 120%; font-weight: bold; }
+.smallText { font-size: 85%; }
+
+h2.error {
+	color:#AA0000;
 }

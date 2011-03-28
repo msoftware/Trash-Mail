@@ -183,21 +183,23 @@ function object2array($object)
    return $return;
 }
 
-function short_url($longurl)
+function short_url($longurl, $retry = 0)
 {
-    $url = "http://p0i.de/api.php?action=shorturl&url=" . urlencode ($longurl) . "\r\n";
-    $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_HEADER, 0);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-    $poi = curl_exec($ch);
+    global $maxretry;
+    if ($retry > $maxretry) return "";
+    $url = "http://p0i.de/api.php?action=shorturl&url=" . urlencode ($longurl);
+    $poi = file_get_contents($url);
+    logToFile ("short_url " . $url . " " . $retry . " " . strlen ($poi));
     if (strlen ($poi) > 20)
     {
 	$poi = object2array (simplexml_load_string ($poi));
 	$shorturl = trim ($poi["shorturl"]);
+    	logToFile ("short_url " . $shorturl);
+    } else {
+	// Retry on error
+	sleep (3);
+	return short_url($longurl, $retry + 1);
     }
-    curl_close($ch);
     return $shorturl;
 }
 
@@ -209,12 +211,44 @@ function get_qr_code ($text)
 	$ecl      = "H";
 	$longurl = "http://" . $_SERVER['SERVER_NAME'] . "/?search=" . $text;
 	$shorturl = short_url($longurl);
-	if (strlen ($shorturl) < 3)
-		$shorturl = short_url($longurl);
 	$url =  "https://chart.googleapis.com/chart?cht=qr&chl=" .
 		$shorturl . "&chs=" . $size . "&choe=" . $encoding . "&chld=" . $ecl;
 	$qr_code = file_get_contents($url);
 	return $qr_code;
 }
 
+function logToFile( $msg)
+{ 
+   global $logfile;
+   $fd = fopen($logfile, "a");
+   $str = "[" . date("Y/m/d h:i:s", mktime()) . "] " . $msg; 
+   fwrite($fd, $str . "\n");
+   fclose($fd);
+}
+
+function myErrorHandler($fehlercode, $fehlertext, $fehlerdatei, $fehlerzeile)
+{
+    switch ($fehlercode) {
+        case E_NOTICE:
+        case E_USER_NOTICE:
+            $errors = "Notice";
+            break;
+        case E_WARNING:
+        case E_USER_WARNING:
+            $errors = "Warning";
+            break;
+        case E_ERROR:
+        case E_USER_ERROR:
+            $errors = "Fatal Error";
+            break;
+        default:
+            $errors = "Unknown";
+            break;
+    }
+    logToFile( $errors . " [$fehlercode] $fehlertext Line: $fehlerzeile File: $fehlerdatei");
+
+    return true;
+}
+
+set_error_handler("myErrorHandler");
 ?>

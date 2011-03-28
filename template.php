@@ -3,8 +3,15 @@
 <head><title><?=$title?></title>
 <script type="text/javascript" src="/bookmarks/jquery-1.5.1.js"></script>
 <script type="text/javascript" src="/bookmarks/bookmarks-public.js"></script>
+
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jqModal.js"></script>
+<script type="text/javascript" src="/js/popup.js"></script>
+
 <link rel="stylesheet" type="text/css" href="/bookmarks/style.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/popup.css" media="screen" />
+
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
 
 </head>
@@ -29,6 +36,8 @@
     <? if (isset ($form)) { ?> <?=$form?> <? } ?>
     <p>	<?=$output?> </p>
 </div>
+
+<div class="jqmWindow" id="dialog"></div>
 
 <div id='footer'>
     <p id="footer"><?=$footer?></p>

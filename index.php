@@ -34,13 +34,18 @@ if (strlen ($search) > 0)
 		      'marginwidth="0" frameborder="0" name="/mail' . $email_number . '" ' .
 		      'src="mail' . $mailurl . '"></iframe>';
 	 
+	    $output.= '<div id="email' . $email_number . '" class="email">';
 	    $output.= '<table cellpadding=3 cellspacing=1 border=0 bgcolor=#EEEEEE width=95%>';
 	    $output.= '<tr><td colspan="2" bgcolor="#FFFFFF"><b><a href="/details' . $mailurl .'">';
 	    $output.= mb_decode_mimeheader(str_replace('_', ' ', $overview[0]->subject));
-	    $output.= '</a></b></td></tr><tr><td bgcolor="#FFFFFF">'.$overview[0]->from;
+	    $output.= '</a></b></td>';
+	    $output.= '<td rowspan="2" width="40" align="center" valign="center" bgcolor="#FFFFFF">';
+	    $output.= '<a href="delete.php?nr=' . $email_number . '" class="jqModal">';
+	    $output.= '<img src="/images/delete.png" border="0"></a></td>';
+	    $output.= '</tr><tr><td bgcolor="#FFFFFF">'.$overview[0]->from;
 	    $output.= '</td><td bgcolor="#FFFFFF">'.$overview[0]->date . '</td></tr>';
-	    $output.= '<tr><td colspan="2">' . $iframe . '</td></tr>';
-	    $output.= '</table><br>';
+	    $output.= '<tr><td colspan="3">' . $iframe . '</td></tr>';
+	    $output.= '</table></div>';
 	  }
 	  
 	} else {

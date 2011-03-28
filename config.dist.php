@@ -1,7 +1,7 @@
 <?
 /* Keine Fehler oder Warnungen ausgeben */
-error_reporting(0); 
-ini_set('display_errors',0);
+error_reporting(E_ALL); 
+ini_set('display_errors',1);
 
 /* Trash Mail Scrip Version */
 $version = "0.8.2";
@@ -36,6 +36,12 @@ $randommailanz = 12;
 $malenames   = "names/Male-Names";
 $femalenames = "names/Female-Names";
 $familynames = "names/Family-Names";
+
+/* Logfile Name */
+$logfile = "TODO LOGFILE ABS PATH AND NAME";
+
+/* Max Retry Für den QR Code Generator (URL Shortener) */
+$maxretry = 10;
 
 /* Feher und Hinweise */
 $validstrings['mail'] = "Bitte geben Sie eine gültige E-Mail Adresse an.";
