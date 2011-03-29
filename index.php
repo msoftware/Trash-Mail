@@ -17,7 +17,7 @@ if (isset ($_GET['search']))
 	$search = $searchtxt . "@" . $maildomain;
 }
 
-if (strlen ($search) > 0)
+if (strlen ($searchtext) > 0)
 {
 	mb_internal_encoding("UTF-8");
 	$inbox = imap_open($hostname,$username,$password) 
