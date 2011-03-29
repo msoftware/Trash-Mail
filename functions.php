@@ -249,5 +249,13 @@ function myErrorHandler($fehlercode, $fehlertext, $fehlerdatei, $fehlerzeile)
     return true;
 }
 
+function checkMail($mail)
+{
+  if(!preg_match("/^[A-Z0-9._%+-ÄÖÜäöü]+@[A-Z0-9.-ÄÖÜäöü]+\.[A-Z]{2,6}$/i", $mail))
+    return false; 
+   
+  return true; 
+} 
+
 // set_error_handler("myErrorHandler");
 ?>

@@ -6,7 +6,7 @@ $form = "<center><div id='form'><br><form method='GET'><table >
 	<button class='imgbutton' type='submit'><img src='/images/load-mail.png'></button>
 	</td>";
 
-if (strlen ($searchtxt) > 0)
+if ($validemail == true)
 {
 	$form .= "<td rowspan='3' align='center'><div id='qrcode'><img src='qrcode.php?search=" . $searchtxt . "'></div>" .
 		 "<a href='qrcode.php?search=" . $searchtxt . "&download=1'>Download</a>";
@@ -14,7 +14,7 @@ if (strlen ($searchtxt) > 0)
 
 $form .= "</tr>";
 
-if (strlen ($searchtxt) > 0)
+if ($validemail == true)
 {
 	$myurl = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'] . "?search=" . $searchtxt; 
 	$form .= "<tr><td align=center valign=center colspan=2>
