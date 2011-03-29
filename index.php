@@ -20,7 +20,7 @@ if (isset ($_GET['search']))
 
 if (strlen ($searchtxt) > 0)
 {
-	$validemail = checkMail($search);
+	$validemail = checkMail($searchtxt);
 	if ($validemail == true)
 	{
 		mb_internal_encoding("UTF-8");

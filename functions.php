@@ -249,10 +249,16 @@ function myErrorHandler($fehlercode, $fehlertext, $fehlerdatei, $fehlerzeile)
     return true;
 }
 
-function checkMail($mail)
+function checkMail($name)
 {
+  global $maildomain;
+  $mail = $name . "@" . $maildomain;
   if(!preg_match("/^[A-Z0-9._%+-ÄÖÜäöü]+@[A-Z0-9.-ÄÖÜäöü]+\.[A-Z]{2,6}$/i", $mail))
-    return false; 
+	return false; 
+
+  $string = preg_replace('/[^a-zA-Z0-9]*/', '', $name);
+  if (strlen ($string) < 1)
+	return false;
    
   return true; 
 } 
