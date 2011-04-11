@@ -270,3 +270,7 @@ div.output { margin: 10px; color: red; }
 h2.error {
 	color:#AA0000;
 }
+
+#form input.search {
+	background-color:#FFFFFF;
+}

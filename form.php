@@ -1,6 +1,6 @@
 <?
 $form = "<center><div id='form'><br><form method='GET'><table >
-         <tr><td align=center valign=center><input type='text' name='search' size='20'
+         <tr><td align=center valign=center><input type='text' name='search' size='20' class='search'
            value='" . $searchtxt . "'>@" . $maildomain . "
          </td><td align=center valign=center>
 	<button class='imgbutton' type='submit'><img src='/images/load-mail.png'></button>
