@@ -38,7 +38,7 @@ $femalenames = "names/Female-Names";
 $familynames = "names/Family-Names";
 
 /* Logfile Name */
-$logfile = "TODO LOGFILE ABS PATH AND NAME";
+// $logfile = "TODO LOGFILE ABS PATH AND NAME";
 
 /* Max Retry Für den QR Code Generator (URL Shortener) */
 $maxretry = 10;
